@@ -40,7 +40,7 @@ to IO Expander to set the address bits, if the device is to be used, it sets "Co
 
 *Needed Hardware*
    * 8/16bit IO Expander
-   * 3 x I2C Bus Transciever
+   * 3 x I2C Bus Transciever (OR! LTC4314, multi-mux!)
    * EEPROM
 
 ![i2c_Config.jpg](i2c_Config.jpg)
