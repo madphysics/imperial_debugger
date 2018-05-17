@@ -22,14 +22,22 @@ Modules are diasy chainable, with up to <4> per channel.
  
 ### Bus Auto config mechanism ###
  
- Use an I2C version of Amiga AutoConfig.
+ Use an I2C version of Amiga AutoConfig idea. Modifed slightly.
  
- Master provides ConfigIn. Module has some i2c buffers that can be enabled/disabled. and this can be used to gate the i2c.
- Basic needs are EEPROM and 8bit IOExpander.
- EEPROM has the config data in it, module type and address info etc. Host then writes to IO Expander to set the address bits, and then also set either a "GO" or "NOGO" bit which will remove the config from the bus, and enable the "Real" device on the bus. It will also have a bit that pushes the ConfigIN into the next module, and removes this modules config logic from the bus.
- 
- If NOGO is set, the second BUS Mux does not enable, and the "Real" device is kept isolated.
- 
+Master provides ConfigIn. Module has some i2c buffers that can be enabled/disabled. and this can be used to gate the i2c.
+
+Basic needs are EEPROM and 8bit IOExpander.
+
+ EEPROM has the config data in it, module type and address info etc. Host then writes 
+to IO Expander to set the address bits, if the device is to be used, it sets "ConfigGood". 
+
+ Setting "ConfigDone" removes the autoconfig controller from the bus.
+ Setting "ConfigOut" Then turns on the next module I2C input.
+
+ All these bits need to be set at the same time, so the ACK happens, and then the BUS topology changes ready for the next one. If the read from the EEPROM fails, then we've reached the END of the bus. 
+
+ The Reset line can be used to re-start the system, so you could read all EEPROMs and then reconfig from scratch once you decide what modules to enable/disable.
+
 *Needed Hardware*
    * 8/16bit IO Expander
    * 3 x I2C Bus Transciever
