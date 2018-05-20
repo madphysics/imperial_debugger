@@ -24,14 +24,14 @@ Modules are diasy chainable, with up to <4> per channel.
  
  Use an I2C version of Amiga AutoConfig idea. Modifed slightly.
  
-Master provides ConfigIn. Module has some i2c buffers that can be enabled/disabled. and this can be used to gate the i2c.
+Master provides ConfigIn. AND Gate take that and module ConfigDone and it enabled the config if the conditions are correct. I2C bus passes though to other modules. 
 
 Basic needs are EEPROM and 8bit IOExpander.
 
  EEPROM has the config data in it, module type and address info etc. Host then writes 
 to IO Expander to set the address bits, if the device is to be used, it sets "ConfigGood". 
 
- Setting "ConfigDone" removes the autoconfig controller from the bus.
+ Setting "ConfigDone" removes the autoconfig controller from the bus, due to the AND gate.
  Setting "ConfigOut" Then turns on the next module I2C input.
 
  All these bits need to be set at the same time, so the ACK happens, and then the BUS topology changes ready for the next one. If the read from the EEPROM fails, then we've reached the END of the bus. 
@@ -40,7 +40,8 @@ to IO Expander to set the address bits, if the device is to be used, it sets "Co
 
 *Needed Hardware*
    * 8/16bit IO Expander
-   * 3 x I2C Bus Transciever (OR! LTC4314, multi-mux!)
+   * 2 x I2C Bus Transciever (OR! LTC4314, multi-mux!)
+   * 2 x AND Gate (Or OR gate, depends on high/low active)
    * EEPROM
 
 ![i2c_Config.jpg](i2c_Config.jpg)
@@ -63,4 +64,20 @@ to IO Expander to set the address bits, if the device is to be used, it sets "Co
  Cheap, male and female versions, right angle. Male on one side, female on the other.
  20 Pin?
  
+## FTDI Config ##
+
+Need an eeprom for the config. Ref design uses 93LC56B SPI based eeprom 
+
+## Power Supply ##
+
+Need to be able to run on USB power, but also external. Needs to isolate correctly, with external
+being 5-12V compatible.
+Use 12-5 input regulator, SEPIC?
+
+5 V switching mux.
+ * tps2115a
+ * tps2114a
+ * tps2114a
+ 
+ FTDI needs 3v3. Ref uses LDO and filtering to to derive PHY, PLL as well VCC. Core is self derived.
  
