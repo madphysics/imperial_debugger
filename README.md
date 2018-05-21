@@ -62,7 +62,10 @@ to IO Expander to set the address bits, if the device is to be used, it sets "Co
 ## Physical Connector ##
  
  Cheap, male and female versions, right angle. Male on one side, female on the other.
- 20 Pin?
+ 20 Pin? 1.27mm pitch.
+ 
+ We have 16 Data per engine.
+ I2C needs 3 outputs to drive the SCL/SDA lines
  
 ## FTDI Config ##
 
