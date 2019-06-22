@@ -204,8 +204,6 @@ F 3 "~" H 4675 2025 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	3800 1175 4025 1175
-Wire Wire Line
-	4675 1175 4675 1250
 Connection ~ 3800 1175
 Wire Wire Line
 	4675 1550 4675 1800
@@ -229,9 +227,6 @@ Wire Wire Line
 	4675 1800 4675 1875
 Wire Wire Line
 	5000 1800 5575 1800
-Connection ~ 3800 2225
-Wire Wire Line
-	3800 2225 4675 2225
 $Comp
 L Device:Ferrite_Bead L1
 U 1 1 5B020053
@@ -603,7 +598,6 @@ Text GLabel 5575 1175 2    50   Input ~ 0
 VBUS
 Wire Wire Line
 	5575 1175 5200 1175
-Connection ~ 4675 1175
 Text GLabel 9275 1500 0    50   Input ~ 0
 VCC3V3
 Text GLabel 9275 1700 0    50   Input ~ 0
@@ -620,8 +614,6 @@ Text Label 1675 1875 0    59   ~ 0
 USB_P
 Text Label 1675 1975 0    59   ~ 0
 USB_N
-Wire Wire Line
-	4325 1175 4675 1175
 $Comp
 L power:PWR_FLAG #FLG02
 U 1 1 5B311B1F
@@ -634,8 +626,6 @@ F 3 "~" H 5200 1175 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 5200 1175
-Wire Wire Line
-	5200 1175 4675 1175
 $Comp
 L power:PWR_FLAG #FLG03
 U 1 1 5B311EE8
@@ -668,4 +658,14 @@ VPHY
 Connection ~ 4800 4450
 Wire Wire Line
 	4800 4450 4850 4450
+Connection ~ 3800 2225
+Wire Wire Line
+	3800 2225 4675 2225
+Wire Wire Line
+	5200 1175 4675 1175
+Wire Wire Line
+	4325 1175 4675 1175
+Connection ~ 4675 1175
+Wire Wire Line
+	4675 1175 4675 1250
 $EndSCHEMATC

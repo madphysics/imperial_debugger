@@ -616,13 +616,7 @@ Wire Wire Line
 Wire Wire Line
 	5550 3500 6200 3500
 Wire Wire Line
-	5550 3600 6200 3600
-Wire Wire Line
-	5550 3700 6200 3700
-Wire Wire Line
-	5550 3800 6200 3800
-Wire Wire Line
-	5550 3900 6200 3900
+	5550 3600 6550 3600
 Wire Wire Line
 	5550 4100 6200 4100
 Wire Wire Line
@@ -995,9 +989,9 @@ Wire Wire Line
 Wire Wire Line
 	9000 1850 9150 1850
 Text GLabel 8225 1850 0    50   Input ~ 0
-SCL
-Text GLabel 9150 1850 2    50   Input ~ 0
 SDA
+Text GLabel 9150 1850 2    50   Input ~ 0
+SCL
 Text GLabel 6850 2800 2    50   Input ~ 0
 SCL
 Text GLabel 6850 3000 2    50   Input ~ 0
@@ -1050,9 +1044,9 @@ Wire Wire Line
 Wire Wire Line
 	9000 1950 9150 1950
 Text GLabel 8375 1950 0    50   Input ~ 0
-CFGOUT
-Text GLabel 9150 1950 2    50   Input ~ 0
 CFGRST
+Text GLabel 9150 1950 2    50   Input ~ 0
+CFGOUT
 Wire Wire Line
 	5550 2600 6850 2600
 Wire Wire Line
@@ -1232,13 +1226,13 @@ Text GLabel 6200 3300 2    50   Input ~ 0
 AC1
 Text GLabel 6200 3500 2    50   Input ~ 0
 AC3
-Text GLabel 6200 3700 2    50   Input ~ 0
+Text GLabel 7375 3700 2    50   Input ~ 0
 AC5
-Text GLabel 6200 3900 2    50   Input ~ 0
+Text GLabel 7375 3900 2    50   Input ~ 0
 AC7
-Text GLabel 6200 3800 2    50   Input ~ 0
+Text GLabel 7375 3800 2    50   Input ~ 0
 AC6
-Text GLabel 6200 3600 2    50   Input ~ 0
+Text GLabel 7375 3600 2    50   Input ~ 0
 AC4
 Text GLabel 6200 3400 2    50   Input ~ 0
 AC2
@@ -1304,4 +1298,87 @@ Wire Wire Line
 Wire Wire Line
 	8500 2150 8400 2150
 NoConn ~ 8400 2550
+Wire Wire Line
+	5550 3800 6950 3800
+Wire Wire Line
+	5550 3900 7150 3900
+$Comp
+L Device:R R17
+U 1 1 5B32BBE8
+P 6550 3425
+F 0 "R17" V 6475 3425 50  0000 C CNN
+F 1 "4.7K" V 6625 3425 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 6480 3425 50  0001 C CNN
+F 3 "~" H 6550 3425 50  0001 C CNN
+	1    6550 3425
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 5B32BD42
+P 6750 3425
+F 0 "R18" V 6675 3425 50  0000 C CNN
+F 1 "4.7K" V 6825 3425 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 6680 3425 50  0001 C CNN
+F 3 "~" H 6750 3425 50  0001 C CNN
+	1    6750 3425
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 5B32BDB0
+P 6950 3425
+F 0 "R19" V 6875 3425 50  0000 C CNN
+F 1 "4.7K" V 7025 3425 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 6880 3425 50  0001 C CNN
+F 3 "~" H 6950 3425 50  0001 C CNN
+	1    6950 3425
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R20
+U 1 1 5B32BE22
+P 7150 3425
+F 0 "R20" V 7075 3425 50  0000 C CNN
+F 1 "4.7K" V 7225 3425 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 7080 3425 50  0001 C CNN
+F 3 "~" H 7150 3425 50  0001 C CNN
+	1    7150 3425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7150 3575 7150 3900
+Connection ~ 7150 3900
+Wire Wire Line
+	7150 3900 7375 3900
+Wire Wire Line
+	6950 3575 6950 3800
+Connection ~ 6950 3800
+Wire Wire Line
+	6950 3800 7375 3800
+Wire Wire Line
+	6750 3575 6750 3700
+Wire Wire Line
+	6750 3700 7375 3700
+Wire Wire Line
+	6550 3275 6750 3275
+Wire Wire Line
+	6750 3275 6950 3275
+Connection ~ 6750 3275
+Wire Wire Line
+	6950 3275 7150 3275
+Connection ~ 6950 3275
+Wire Wire Line
+	7150 3275 7375 3275
+Connection ~ 7150 3275
+Text GLabel 7375 3275 2    50   Input ~ 0
+VIO
+Wire Wire Line
+	6550 3575 6550 3600
+Connection ~ 6550 3600
+Wire Wire Line
+	6550 3600 7375 3600
+Connection ~ 6750 3700
+Wire Wire Line
+	5550 3700 6750 3700
 $EndSCHEMATC
