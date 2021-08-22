@@ -32,7 +32,7 @@ The plan is to bring all points to bring them out as different standards.
 ## Potential XCVR chips
 
 ### RS232
-  * MAX3222E -- Looks good. Has protection in it. 250k min speeds.
+  * TI MAX3222E -- Looks good. Has protection in it. 250k min speeds.
     * MAX3222EEWN is WideSOIC
 	  * Also available in SSOP 20 pin, which is harder to solder.
     * 4 signals, so TX/RX and CTS/RTS

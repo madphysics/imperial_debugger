@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3222EIPW
+D 3- to 5.5-V dual channel 250kbps RS-232 line driver/receiver with +/-15-kV ESD protection
+F https://www.ti.com/lit/gpn/max3222
+$ENDCMP
+#
+$CMP SP330EEY-L
+D SP330EEY RS422/485/232 tranceiver
+F https://www.maxlinear.com/document/index?id=21451&languageid=1033&type=Datasheet&partnumber=SP330&filename=SP330E.pdf&part=SP330
+$ENDCMP
+#
+$CMP VPHY
+D Power symbol creates a global label with name "VPHY"
+K power-flag
+$ENDCMP
+#
+$CMP VPLL
+D Power symbol creates a global label with name "VPLL"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
