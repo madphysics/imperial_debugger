@@ -10,6 +10,11 @@ D SP330EEY RS422/485/232 tranceiver
 F https://www.maxlinear.com/document/index?id=21451&languageid=1033&type=Datasheet&partnumber=SP330&filename=SP330E.pdf&part=SP330
 $ENDCMP
 #
+$CMP TXS0104EDR
+D TXS0104E 4-Bit Bidirectional Voltage-Level Translator for Open-Drain and Push-Pull Applications SOIC-14
+F https://www.ti.com/lit/gpn/txs0104e
+$ENDCMP
+#
 $CMP VPHY
 D Power symbol creates a global label with name "VPHY"
 K power-flag
