@@ -40,8 +40,8 @@ L Device:L_Core_Ferrite_Small L1
 U 1 1 61232502
 P 1500 3650
 F 0 "L1" H 1568 3696 50  0000 L CNN
-F 1 "600R/0.5A" H 1568 3605 50  0000 L CNN
-F 2 "" H 1500 3650 50  0001 C CNN
+F 1 "330R/0.5A" H 1568 3605 50  0000 L CNN
+F 2 "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1500 3650 50  0001 C CNN
 F 3 "~" H 1500 3650 50  0001 C CNN
 	1    1500 3650
 	1    0    0    -1  
@@ -192,8 +192,8 @@ L pspice:INDUCTOR L2
 U 1 1 61243B37
 P 4350 3450
 F 0 "L2" H 4350 3665 50  0000 C CNN
-F 1 "100uH" H 4350 3574 50  0000 C CNN
-F 2 "" H 4350 3450 50  0001 C CNN
+F 1 "SRN6045-101M" H 4350 3574 50  0000 C CNN
+F 2 "Inductor_SMD:L_Bourns_SRN6045TA" H 4350 3450 50  0001 C CNN
 F 3 "~" H 4350 3450 50  0001 C CNN
 	1    4350 3450
 	1    0    0    -1  
@@ -286,8 +286,8 @@ L Device:L_Core_Ferrite_Small L3
 U 1 1 6124AFE5
 P 5600 3150
 F 0 "L3" V 5805 3150 50  0000 C CNN
-F 1 "600R/0.5A" V 5714 3150 50  0000 C CNN
-F 2 "" H 5600 3150 50  0001 C CNN
+F 1 "330R/0.5A" V 5714 3150 50  0000 C CNN
+F 2 "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5600 3150 50  0001 C CNN
 F 3 "~" H 5600 3150 50  0001 C CNN
 	1    5600 3150
 	0    -1   -1   0   
@@ -297,8 +297,8 @@ L Device:L_Core_Ferrite_Small L4
 U 1 1 6124DA62
 P 5600 3400
 F 0 "L4" V 5805 3400 50  0000 C CNN
-F 1 "600R/0.5A" V 5714 3400 50  0000 C CNN
-F 2 "" H 5600 3400 50  0001 C CNN
+F 1 "330R/0.5A" V 5714 3400 50  0000 C CNN
+F 2 "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5600 3400 50  0001 C CNN
 F 3 "~" H 5600 3400 50  0001 C CNN
 	1    5600 3400
 	0    -1   -1   0   
@@ -449,17 +449,17 @@ F 3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" H
 	1    0    0    -1  
 $EndComp
 Text Label 3500 4800 0    50   ~ 0
-DP
+D_P
 Text Label 3500 4900 0    50   ~ 0
-DM
+D_N
 Wire Wire Line
 	9850 6150 9500 6150
 Wire Wire Line
 	9850 6250 9500 6250
 Text Label 9500 6150 0    50   ~ 0
-DM
+D_N
 Text Label 9500 6250 0    50   ~ 0
-DP
+D_P
 Wire Wire Line
 	8750 5350 8750 4750
 $Comp
@@ -1521,4 +1521,8 @@ Wire Bus Line
 Connection ~ 15250 8850
 Wire Wire Line
 	15250 8850 15450 8850
+Text Label 1720 4800 0    50   ~ 0
+D+
+Text Label 1720 4900 0    50   ~ 0
+D-
 $EndSCHEMATC
