@@ -1510,6 +1510,13 @@ Wire Wire Line
 	14600 8750 14750 8750
 Wire Wire Line
 	15250 8850 15250 8845
+Connection ~ 15250 8850
+Wire Wire Line
+	15250 8850 15450 8850
+Text Label 1720 4800 0    50   ~ 0
+D+
+Text Label 1720 4900 0    50   ~ 0
+D-
 Wire Bus Line
 	12850 5250 12850 5950
 Wire Bus Line
@@ -1518,11 +1525,4 @@ Wire Bus Line
 	12850 7050 12850 7750
 Wire Bus Line
 	12850 7950 12850 8650
-Connection ~ 15250 8850
-Wire Wire Line
-	15250 8850 15450 8850
-Text Label 1720 4800 0    50   ~ 0
-D+
-Text Label 1720 4900 0    50   ~ 0
-D-
 $EndSCHEMATC

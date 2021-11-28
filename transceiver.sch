@@ -122,71 +122,22 @@ Mapping of Bus to Serial\n0: TXD\n1: RXD\n2: RTSn\n3: CTSn\n4: DTRn\n5: DSRn\n6:
 Text Notes 2725 1150 0    98   ~ 0
 BUSA: CMOS/TTL\nBUSB: RS232\nBUSC: RS422/485/RS232\nBUSC: RS422/485/RS232\n
 $Comp
-L Device:Jumper JP4
+L Connector_Generic:Conn_02x04_Odd_Even JP4
 U 1 1 6124449A
-P 2825 3075
-F 0 "JP4" H 2825 3248 50  0000 C CNN
-F 1 "Jumper" H 2825 3248 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 2825 3075 50  0001 C CNN
-F 3 "~" H 2825 3075 50  0001 C CNN
-	1    2825 3075
-	1    0    0    -1  
+P 3600 3700
+F 0 "JP4" H 3600 3873 50  0000 C CNN
+F 1 "Jumper" H 3600 3873 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x04_P2.00mm_Vertical_SMD" H 3600 3700 50  0001 C CNN
+F 3 "~" H 3600 3700 50  0001 C CNN
+	1    3600 3700
+	0    1    1    0   
 $EndComp
-$Comp
-L Device:Jumper JP5
-U 1 1 61244F06
-P 2825 3325
-F 0 "JP5" H 2825 3498 50  0000 C CNN
-F 1 "Jumper" H 2825 3498 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 2825 3325 50  0001 C CNN
-F 3 "~" H 2825 3325 50  0001 C CNN
-	1    2825 3325
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP6
-U 1 1 6124538E
-P 2825 3575
-F 0 "JP6" H 2825 3748 50  0000 C CNN
-F 1 "Jumper" H 2825 3748 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 2825 3575 50  0001 C CNN
-F 3 "~" H 2825 3575 50  0001 C CNN
-	1    2825 3575
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP7
-U 1 1 612456E3
-P 2825 3825
-F 0 "JP7" H 2825 3998 50  0000 C CNN
-F 1 "Jumper" H 2825 3998 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 2825 3825 50  0001 C CNN
-F 3 "~" H 2825 3825 50  0001 C CNN
-	1    2825 3825
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2275 3175 2275 3075
-Wire Wire Line
-	2275 3075 2525 3075
 Wire Wire Line
 	1625 3175 2175 3175
 Wire Wire Line
-	2275 3275 2275 3325
-Wire Wire Line
-	2275 3325 2525 3325
-Wire Wire Line
 	1625 3275 2125 3275
 Wire Wire Line
-	2275 3375 2275 3575
-Wire Wire Line
-	2275 3575 2525 3575
-Wire Wire Line
 	1625 3375 2075 3375
-Wire Wire Line
-	2225 3475 2225 3825
-Wire Wire Line
-	2225 3825 2525 3825
 Wire Wire Line
 	1625 3475 2025 3475
 NoConn ~ 2025 3575
@@ -194,20 +145,16 @@ NoConn ~ 2025 3675
 NoConn ~ 2025 3775
 NoConn ~ 2025 3875
 Wire Wire Line
-	3125 3075 3275 3075
+	3400 4050 3250 4050
 Wire Wire Line
-	3125 3325 3275 3325
-Wire Wire Line
-	3125 3575 3275 3575
-Wire Wire Line
-	3125 3825 3275 3825
-Text Label 3275 3075 0    50   ~ 0
+	3700 4050 3850 4050
+Text Label 3250 4050 2    50   ~ 0
 TXD_1
-Text Label 3275 3325 0    50   ~ 0
+Text Label 3250 4150 2    50   ~ 0
 RXD_1
-Text Label 3275 3575 0    50   ~ 0
+Text Label 3850 4150 0    50   ~ 0
 RTSn_1
-Text Label 3275 3825 0    50   ~ 0
+Text Label 3850 4050 0    50   ~ 0
 CTSn_1
 Wire Wire Line
 	13075 6050 13475 6050
@@ -234,71 +181,22 @@ BDBUS6
 Text Label 13150 6350 0    50   ~ 0
 BDBUS7
 $Comp
-L Device:Jumper JP23
+L Connector_Generic:Conn_02x04_Odd_Even JP23
 U 1 1 6124E2D8
-P 14275 5550
-F 0 "JP23" H 14275 5723 50  0000 C CNN
-F 1 "Jumper" H 14275 5723 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14275 5550 50  0001 C CNN
-F 3 "~" H 14275 5550 50  0001 C CNN
-	1    14275 5550
+P 14250 5750
+F 0 "JP23" H 14250 5923 50  0000 C CNN
+F 1 "Jumper" H 14250 5923 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x04_P2.00mm_Vertical_SMD" H 14250 5750 50  0001 C CNN
+F 3 "~" H 14250 5750 50  0001 C CNN
+	1    14250 5750
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:Jumper JP24
-U 1 1 6124E2DE
-P 14275 5800
-F 0 "JP24" H 14275 5973 50  0000 C CNN
-F 1 "Jumper" H 14275 5973 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14275 5800 50  0001 C CNN
-F 3 "~" H 14275 5800 50  0001 C CNN
-	1    14275 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP25
-U 1 1 6124E2E4
-P 14275 6050
-F 0 "JP25" H 14275 6223 50  0000 C CNN
-F 1 "Jumper" H 14275 6223 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14275 6050 50  0001 C CNN
-F 3 "~" H 14275 6050 50  0001 C CNN
-	1    14275 6050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP26
-U 1 1 6124E2EA
-P 14275 6300
-F 0 "JP26" H 14275 6473 50  0000 C CNN
-F 1 "Jumper" H 14275 6473 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14275 6300 50  0001 C CNN
-F 3 "~" H 14275 6300 50  0001 C CNN
-	1    14275 6300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	13725 5650 13725 5550
-Wire Wire Line
-	13725 5550 13975 5550
 Wire Wire Line
 	13075 5650 13625 5650
 Wire Wire Line
-	13725 5750 13725 5800
-Wire Wire Line
-	13725 5800 13975 5800
-Wire Wire Line
 	13075 5750 13575 5750
 Wire Wire Line
-	13725 5850 13725 6050
-Wire Wire Line
-	13725 6050 13975 6050
-Wire Wire Line
 	13075 5850 13525 5850
-Wire Wire Line
-	13675 5950 13675 6300
-Wire Wire Line
-	13675 6300 13975 6300
 Wire Wire Line
 	13075 5950 13475 5950
 NoConn ~ 13475 6050
@@ -306,20 +204,20 @@ NoConn ~ 13475 6150
 NoConn ~ 13475 6250
 NoConn ~ 13475 6350
 Wire Wire Line
-	14575 5550 14725 5550
+	14550 5650 14650 5650
 Wire Wire Line
-	14575 5800 14725 5800
+	14550 5750 14650 5750
 Wire Wire Line
-	14575 6050 14725 6050
+	14550 5850 14650 5850
 Wire Wire Line
-	14575 6300 14725 6300
-Text Label 14725 5550 0    50   ~ 0
+	14550 5950 14650 5950
+Text Label 14700 5650 0    50   ~ 0
 TXD_2
-Text Label 14725 5800 0    50   ~ 0
+Text Label 14700 5750 0    50   ~ 0
 RXD_2
-Text Label 14725 6050 0    50   ~ 0
+Text Label 14700 5850 0    50   ~ 0
 RTSn_2
-Text Label 14725 6300 0    50   ~ 0
+Text Label 14700 5950 0    50   ~ 0
 CTSn_2
 Text Notes 13975 5325 0    50   ~ 0
 2mm 2pin headers - Disconnect XCVR\n
@@ -346,91 +244,42 @@ CDBUS6
 Text Label 2150 7000 0    50   ~ 0
 CDBUS7
 $Comp
-L Device:Jumper JP8
+L Connector_Generic:Conn_02x04_Odd_Even JP8
 U 1 1 6125202B
-P 3275 6200
-F 0 "JP8" H 3275 6373 50  0000 C CNN
-F 1 "Jumper" H 3275 6373 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 3275 6200 50  0001 C CNN
-F 3 "~" H 3275 6200 50  0001 C CNN
-	1    3275 6200
+P 3200 6400
+F 0 "JP8" H 3200 6573 50  0000 C CNN
+F 1 "Jumper" H 3200 6573 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x04_P2.00mm_Vertical_SMD" H 3200 6400 50  0001 C CNN
+F 3 "~" H 3200 6400 50  0001 C CNN
+	1    3200 6400
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:Jumper JP9
-U 1 1 61252031
-P 3275 6450
-F 0 "JP9" H 3275 6623 50  0000 C CNN
-F 1 "Jumper" H 3275 6623 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 3275 6450 50  0001 C CNN
-F 3 "~" H 3275 6450 50  0001 C CNN
-	1    3275 6450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP10
-U 1 1 61252037
-P 3275 6700
-F 0 "JP10" H 3275 6873 50  0000 C CNN
-F 1 "Jumper" H 3275 6873 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 3275 6700 50  0001 C CNN
-F 3 "~" H 3275 6700 50  0001 C CNN
-	1    3275 6700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP11
-U 1 1 6125203D
-P 3275 6950
-F 0 "JP11" H 3275 7123 50  0000 C CNN
-F 1 "Jumper" H 3275 7123 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 3275 6950 50  0001 C CNN
-F 3 "~" H 3275 6950 50  0001 C CNN
-	1    3275 6950
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2725 6300 2725 6200
-Wire Wire Line
-	2725 6200 2975 6200
 Wire Wire Line
 	2075 6300 2625 6300
 Wire Wire Line
-	2725 6400 2725 6450
-Wire Wire Line
-	2725 6450 2975 6450
-Wire Wire Line
 	2075 6400 2575 6400
 Wire Wire Line
-	2725 6500 2725 6700
-Wire Wire Line
-	2725 6700 2975 6700
-Wire Wire Line
 	2075 6500 2525 6500
-Wire Wire Line
-	2675 6600 2675 6950
-Wire Wire Line
-	2675 6950 2975 6950
 Wire Wire Line
 	2075 6600 2475 6600
 NoConn ~ 2475 6700
 NoConn ~ 2475 6800
 NoConn ~ 2475 6900
 Wire Wire Line
-	3575 6200 3725 6200
+	3500 6300 3650 6300
 Wire Wire Line
-	3575 6450 3725 6450
+	3500 6400 3650 6400
 Wire Wire Line
-	3575 6700 3725 6700
+	3500 6500 3650 6500
 Wire Wire Line
-	3575 6950 3725 6950
-Text Label 3725 6200 0    50   ~ 0
+	3500 6600 3650 6600
+Text Label 3650 6300 0    50   ~ 0
 TXD_3
-Text Label 3725 6450 0    50   ~ 0
+Text Label 3650 6400 0    50   ~ 0
 RXD_3
-Text Label 3725 6700 0    50   ~ 0
+Text Label 3650 6500 0    50   ~ 0
 RTSn_3
-Text Label 3725 6950 0    50   ~ 0
+Text Label 3650 6600 0    50   ~ 0
 CTSn_3
 Wire Wire Line
 	7375 6575 7775 6575
@@ -455,91 +304,58 @@ DDBUS6
 Text Label 7450 6875 0    50   ~ 0
 DDBUS7
 $Comp
-L Device:Jumper JP19
+L Connector_Generic:Conn_02x04_Odd_Even JP19
 U 1 1 6125627C
-P 8575 6075
-F 0 "JP19" H 8575 6248 50  0000 C CNN
-F 1 "Jumper" H 8575 6248 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 8575 6075 50  0001 C CNN
-F 3 "~" H 8575 6075 50  0001 C CNN
-	1    8575 6075
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP20
-U 1 1 61256282
-P 8575 6325
-F 0 "JP20" H 8575 6498 50  0000 C CNN
-F 1 "Jumper" H 8575 6498 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 8575 6325 50  0001 C CNN
-F 3 "~" H 8575 6325 50  0001 C CNN
-	1    8575 6325
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP21
-U 1 1 61256288
-P 8575 6575
-F 0 "JP21" H 8575 6748 50  0000 C CNN
-F 1 "Jumper" H 8575 6748 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 8575 6575 50  0001 C CNN
-F 3 "~" H 8575 6575 50  0001 C CNN
-	1    8575 6575
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP22
-U 1 1 6125628E
-P 8575 6825
-F 0 "JP22" H 8575 6998 50  0000 C CNN
-F 1 "Jumper" H 8575 6998 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 8575 6825 50  0001 C CNN
-F 3 "~" H 8575 6825 50  0001 C CNN
-	1    8575 6825
+P 8500 6300
+F 0 "JP19" H 8500 6473 50  0000 C CNN
+F 1 "Jumper" H 8500 6473 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x04_P2.00mm_Vertical_SMD" H 8500 6300 50  0001 C CNN
+F 3 "~" H 8500 6300 50  0001 C CNN
+	1    8500 6300
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8025 6175 8025 6075
+	8025 6175 8050 6200
 Wire Wire Line
-	8025 6075 8275 6075
+	8050 6200 8300 6200
 Wire Wire Line
 	7375 6175 7925 6175
 Wire Wire Line
-	8025 6275 8025 6325
+	8025 6275 8050 6300
 Wire Wire Line
-	8025 6325 8275 6325
+	8050 6300 8300 6300
 Wire Wire Line
 	7375 6275 7875 6275
 Wire Wire Line
-	8025 6375 8025 6575
+	8025 6375 8050 6400
 Wire Wire Line
-	8025 6575 8275 6575
+	8050 6400 8300 6400
 Wire Wire Line
 	7375 6375 7825 6375
 Wire Wire Line
-	7975 6475 7975 6825
+	7975 6475 8000 6500
 Wire Wire Line
-	7975 6825 8275 6825
+	8000 6500 8300 6500
 Wire Wire Line
 	7375 6475 7775 6475
 NoConn ~ 7775 6575
 NoConn ~ 7775 6675
 NoConn ~ 7775 6775
 Wire Wire Line
-	8875 6075 9025 6075
+	8800 6200 8950 6200
 Wire Wire Line
-	8875 6325 9025 6325
+	8800 6300 8950 6300
 Wire Wire Line
-	8875 6575 9025 6575
+	8800 6400 8950 6400
 Wire Wire Line
-	8875 6825 9025 6825
-Text Label 9025 6075 0    50   ~ 0
+	8800 6500 8950 6500
+Text Label 8950 6200 0    50   ~ 0
 TXD_4
-Text Label 9025 6325 0    50   ~ 0
+Text Label 8950 6300 0    50   ~ 0
 RXD_4
-Text Label 9025 6575 0    50   ~ 0
+Text Label 8950 6400 0    50   ~ 0
 RTSn_4
-Text Label 9025 6825 0    50   ~ 0
+Text Label 8950 6500 0    50   ~ 0
 CTSn_4
 $Comp
 L local:MAX3222EIPW U14
@@ -766,28 +582,20 @@ Wire Wire Line
 	13625 5125 13625 5650
 Connection ~ 13625 5650
 Wire Wire Line
-	13625 5650 13725 5650
-Wire Wire Line
 	13650 5025 13575 5025
 Wire Wire Line
 	13575 5025 13575 5750
 Connection ~ 13575 5750
-Wire Wire Line
-	13575 5750 13725 5750
 Wire Wire Line
 	13650 4925 13525 4925
 Wire Wire Line
 	13525 4925 13525 5850
 Connection ~ 13525 5850
 Wire Wire Line
-	13525 5850 13725 5850
-Wire Wire Line
 	13650 4825 13475 4825
 Wire Wire Line
 	13475 4825 13475 5950
 Connection ~ 13475 5950
-Wire Wire Line
-	13475 5950 13675 5950
 Text Notes 13975 4925 0    98   ~ 0
 Gives direct TTL access
 $Comp
@@ -881,8 +689,8 @@ Text Notes 2975 5975 0    50   ~ 0
 2mm 2pin headers - Disconnect XCVR\n
 Text Notes 8275 5850 0    50   ~ 0
 2mm 2pin headers - Disconnect XCVR\n
-Text Notes 2525 2850 0    50   ~ 0
-2mm 2pin headers - Disconnect XCVR\n
+Text Notes 2375 2995 0    50   ~ 0
+1.27mm 2pin headers - Disconnect XCVR\n
 $Comp
 L local:SP330EEY-L U5
 U 1 1 613DAA8B
@@ -1106,40 +914,18 @@ Wire Wire Line
 Text Label 2025 9125 0    50   ~ 0
 SUSPEND#
 $Comp
-L Device:Jumper JP3
-U 1 1 615B12F8
-P 1775 9775
-F 0 "JP3" V 1600 9925 50  0000 R CNN
-F 1 "Jumper" H 1775 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 1775 9775 50  0001 C CNN
-F 3 "~" H 1775 9775 50  0001 C CNN
-	1    1775 9775
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:Jumper JP2
-U 1 1 615B2FB5
-P 1525 9775
-F 0 "JP2" V 1350 9925 50  0000 R CNN
-F 1 "Jumper" H 1525 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 1525 9775 50  0001 C CNN
-F 3 "~" H 1525 9775 50  0001 C CNN
-	1    1525 9775
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:GND #PWR0131
 U 1 1 615ED5FF
-P 1525 10250
-F 0 "#PWR0131" H 1525 10000 50  0001 C CNN
-F 1 "GND" H 1530 10077 50  0000 C CNN
-F 2 "" H 1525 10250 50  0001 C CNN
-F 3 "" H 1525 10250 50  0001 C CNN
-	1    1525 10250
+P 1525 10150
+F 0 "#PWR0131" H 1525 9900 50  0001 C CNN
+F 1 "GND" H 1530 9977 50  0000 C CNN
+F 2 "" H 1525 10150 50  0001 C CNN
+F 3 "" H 1525 10150 50  0001 C CNN
+	1    1525 10150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1525 10250 1525 10150
+	1525 10150 1525 10050
 Wire Wire Line
 	2450 8725 2425 8725
 Wire Wire Line
@@ -1160,22 +946,10 @@ Text Label 2025 9325 0    50   ~ 0
 FULLn_3
 Text Label 2025 9425 0    50   ~ 0
 RS323n_3
-Wire Wire Line
-	2675 7000 2675 7075
-Wire Wire Line
-	2675 7075 3725 7075
-Wire Wire Line
-	2075 7000 2675 7000
-Text Label 3725 7075 0    50   ~ 0
+Text Label 3725 7000 0    50   ~ 0
 TXEN_3
-Wire Wire Line
-	7975 6950 9025 6950
-Text Label 9025 6950 0    50   ~ 0
+Text Label 8950 6875 0    50   ~ 0
 TXEN_4
-Wire Wire Line
-	7975 6950 7975 6875
-Wire Wire Line
-	7375 6875 7975 6875
 Text Label 1175 8025 2    50   ~ 0
 TXEN_3
 Wire Wire Line
@@ -1373,21 +1147,19 @@ PORT_3_RXD
 Text Label 2425 8525 2    50   ~ 0
 PORT_3_CTS
 $Comp
-L Device:Jumper JP1
+L Connector_Generic:Conn_02x03_Odd_Even JP1
 U 1 1 615B3338
-P 1300 9775
-F 0 "JP1" V 1125 9925 50  0000 R CNN
-F 1 "Jumper" H 1300 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 1300 9775 50  0001 C CNN
-F 3 "~" H 1300 9775 50  0001 C CNN
-	1    1300 9775
+P 1525 9775
+F 0 "JP1" V 1350 9925 50  0000 R CNN
+F 1 "Jumper" H 1525 9948 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical_SMD" H 1525 9775 50  0001 C CNN
+F 3 "~" H 1525 9775 50  0001 C CNN
+	1    1525 9775
 	0    -1   -1   0   
 $EndComp
 Connection ~ 1775 9225
 Wire Wire Line
 	1300 9475 1300 9425
-Wire Wire Line
-	1775 9475 1775 9225
 Wire Wire Line
 	1775 9225 2450 9225
 Connection ~ 1525 8875
@@ -1398,16 +1170,16 @@ Wire Wire Line
 Wire Wire Line
 	1525 9475 1525 9325
 Wire Wire Line
-	1775 10075 1775 10150
+	1625 9975 1625 10050
 Wire Wire Line
-	1775 10150 1525 10150
-Connection ~ 1525 10150
+	1625 10050 1525 10050
+Connection ~ 1525 10050
 Wire Wire Line
-	1525 10150 1525 10075
+	1525 10050 1525 9975
 Wire Wire Line
-	1525 10150 1300 10150
+	1525 10050 1425 10050
 Wire Wire Line
-	1300 10150 1300 10075
+	1425 10050 1425 9975
 Wire Wire Line
 	1525 9325 2450 9325
 Wire Wire Line
@@ -1426,17 +1198,9 @@ Wire Notes Line
 Text Notes 775  5175 0    98   ~ 0
 Port 3 - RS422/485/RS232
 Connection ~ 2475 6600
-Wire Wire Line
-	2475 6600 2675 6600
 Connection ~ 2525 6500
-Wire Wire Line
-	2525 6500 2725 6500
 Connection ~ 2575 6400
-Wire Wire Line
-	2575 6400 2725 6400
 Connection ~ 2625 6300
-Wire Wire Line
-	2625 6300 2725 6300
 Connection ~ 7775 6475
 Wire Wire Line
 	7775 6475 7975 6475
@@ -1647,40 +1411,18 @@ Wire Wire Line
 Text Label 7525 9125 0    50   ~ 0
 SUSPEND#
 $Comp
-L Device:Jumper JP14
-U 1 1 61EFE265
-P 7275 9775
-F 0 "JP14" V 7100 9925 50  0000 R CNN
-F 1 "Jumper" H 7275 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7275 9775 50  0001 C CNN
-F 3 "~" H 7275 9775 50  0001 C CNN
-	1    7275 9775
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:Jumper JP13
-U 1 1 61EFE26F
-P 7025 9775
-F 0 "JP13" V 6850 9925 50  0000 R CNN
-F 1 "Jumper" H 7025 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7025 9775 50  0001 C CNN
-F 3 "~" H 7025 9775 50  0001 C CNN
-	1    7025 9775
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:GND #PWR0140
 U 1 1 61EFE279
-P 7025 10250
-F 0 "#PWR0140" H 7025 10000 50  0001 C CNN
-F 1 "GND" H 7030 10077 50  0000 C CNN
-F 2 "" H 7025 10250 50  0001 C CNN
-F 3 "" H 7025 10250 50  0001 C CNN
-	1    7025 10250
+P 7025 10150
+F 0 "#PWR0140" H 7025 9900 50  0001 C CNN
+F 1 "GND" H 7030 9977 50  0000 C CNN
+F 2 "" H 7025 10150 50  0001 C CNN
+F 3 "" H 7025 10150 50  0001 C CNN
+	1    7025 10150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7025 10250 7025 10150
+	7025 10150 7025 10050
 Wire Wire Line
 	7950 8725 7925 8725
 Wire Wire Line
@@ -1887,14 +1629,14 @@ PORT_4_RXD
 Text Label 7925 8525 2    50   ~ 0
 PORT_4_CTS
 $Comp
-L Device:Jumper JP12
+L Connector_Generic:Conn_02x03_Odd_Even JP12
 U 1 1 61EFE324
-P 6800 9775
-F 0 "JP12" V 6625 9925 50  0000 R CNN
-F 1 "Jumper" H 6800 9948 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 6800 9775 50  0001 C CNN
-F 3 "~" H 6800 9775 50  0001 C CNN
-	1    6800 9775
+P 7025 9775
+F 0 "JP12" V 7070 9870 50  0000 R CNN
+F 1 "Jumper" H 7025 9948 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical_SMD" H 7025 9775 50  0001 C CNN
+F 3 "~" H 7025 9775 50  0001 C CNN
+	1    7025 9775
 	0    -1   -1   0   
 $EndComp
 Connection ~ 7275 9225
@@ -1912,16 +1654,16 @@ Wire Wire Line
 Wire Wire Line
 	7025 9475 7025 9325
 Wire Wire Line
-	7275 10075 7275 10150
+	7125 9975 7125 10050
 Wire Wire Line
-	7275 10150 7025 10150
-Connection ~ 7025 10150
+	7125 10050 7025 10050
+Connection ~ 7025 10050
 Wire Wire Line
-	7025 10150 7025 10075
+	7025 10050 7025 9975
 Wire Wire Line
-	7025 10150 6800 10150
+	7025 10050 6925 10050
 Wire Wire Line
-	6800 10150 6800 10075
+	6925 10050 6925 9975
 Wire Wire Line
 	7025 9325 7950 9325
 Wire Wire Line
@@ -1940,17 +1682,9 @@ Wire Notes Line
 Text Notes 6300 5200 0    98   ~ 0
 Port 4 - RS422/485/RS232
 Connection ~ 2025 3475
-Wire Wire Line
-	2025 3475 2225 3475
 Connection ~ 2075 3375
-Wire Wire Line
-	2075 3375 2275 3375
 Connection ~ 2125 3275
-Wire Wire Line
-	2125 3275 2275 3275
 Connection ~ 2175 3175
-Wire Wire Line
-	2175 3175 2275 3175
 Text Notes 5720 1040 0    50   ~ 0
 Need to generate 2v5 and 1v8 from 3v3\n3v3 and 5v are used as is. OR an external voltage can be used.\nIf no pins are jumpered, then external is the ref.\n\n
 $Comp
@@ -2066,118 +1800,72 @@ Wire Wire Line
 	6300 1550 6300 1450
 Connection ~ 6300 1450
 $Comp
-L Device:Jumper JP15
+L Connector_Generic:Conn_02x04_Odd_Even JP15
 U 1 1 614AE7B3
-P 7900 1400
-F 0 "JP15" H 7900 1573 50  0000 C CNN
-F 1 "Jumper" H 7900 1573 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7900 1400 50  0001 C CNN
-F 3 "~" H 7900 1400 50  0001 C CNN
-	1    7900 1400
+P 7845 1660
+F 0 "JP15" H 7885 1855 50  0000 C CNN
+F 1 "Jumper" H 7845 1833 50  0001 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x04_P1.27mm_Vertical_SMD" H 7845 1660 50  0001 C CNN
+F 3 "~" H 7845 1660 50  0001 C CNN
+	1    7845 1660
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:Jumper JP16
-U 1 1 614AF554
-P 7900 1600
-F 0 "JP16" H 7900 1773 50  0000 C CNN
-F 1 "Jumper" H 7900 1773 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7900 1600 50  0001 C CNN
-F 3 "~" H 7900 1600 50  0001 C CNN
-	1    7900 1600
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP17
-U 1 1 614AFB9A
-P 7900 1800
-F 0 "JP17" H 7900 1973 50  0000 C CNN
-F 1 "Jumper" H 7900 1973 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7900 1800 50  0001 C CNN
-F 3 "~" H 7900 1800 50  0001 C CNN
-	1    7900 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:Jumper JP18
-U 1 1 614B016B
-P 7900 2000
-F 0 "JP18" H 7900 2173 50  0000 C CNN
-F 1 "Jumper" H 7900 2173 50  0001 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 7900 2000 50  0001 C CNN
-F 3 "~" H 7900 2000 50  0001 C CNN
-	1    7900 2000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8200 1400 8200 1600
-Wire Wire Line
-	8200 1800 8200 1700
-Connection ~ 8200 1600
-Wire Wire Line
-	8200 1800 8200 2000
-Connection ~ 8200 1800
-Wire Wire Line
-	8200 1700 8280 1700
-Connection ~ 8200 1700
-Wire Wire Line
-	8200 1700 8200 1600
 $Comp
 L power:+1V8 #PWR0152
 U 1 1 61546A01
-P 7500 1400
-F 0 "#PWR0152" H 7500 1250 50  0001 C CNN
-F 1 "+1V8" H 7390 1500 50  0000 C CNN
-F 2 "" H 7500 1400 50  0001 C CNN
-F 3 "" H 7500 1400 50  0001 C CNN
-	1    7500 1400
+P 7550 1560
+F 0 "#PWR0152" H 7550 1410 50  0001 C CNN
+F 1 "+1V8" H 7440 1660 50  0000 C CNN
+F 2 "" H 7550 1560 50  0001 C CNN
+F 3 "" H 7550 1560 50  0001 C CNN
+	1    7550 1560
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+2V5 #PWR0153
 U 1 1 61546E77
-P 7500 1600
-F 0 "#PWR0153" H 7500 1450 50  0001 C CNN
-F 1 "+2V5" H 7380 1700 50  0000 C CNN
-F 2 "" H 7500 1600 50  0001 C CNN
-F 3 "" H 7500 1600 50  0001 C CNN
-	1    7500 1600
+P 7450 1660
+F 0 "#PWR0153" H 7450 1510 50  0001 C CNN
+F 1 "+2V5" H 7330 1760 50  0000 C CNN
+F 2 "" H 7450 1660 50  0001 C CNN
+F 3 "" H 7450 1660 50  0001 C CNN
+	1    7450 1660
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+3.3V #PWR0154
 U 1 1 615475BC
-P 7500 1800
-F 0 "#PWR0154" H 7500 1650 50  0001 C CNN
-F 1 "+3.3V" H 7390 1910 50  0000 C CNN
-F 2 "" H 7500 1800 50  0001 C CNN
-F 3 "" H 7500 1800 50  0001 C CNN
-	1    7500 1800
+P 7350 1760
+F 0 "#PWR0154" H 7350 1610 50  0001 C CNN
+F 1 "+3.3V" H 7240 1870 50  0000 C CNN
+F 2 "" H 7350 1760 50  0001 C CNN
+F 3 "" H 7350 1760 50  0001 C CNN
+	1    7350 1760
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VBUS #PWR?
 U 1 1 61561C78
-P 7490 1990
+P 7250 1850
 AR Path="/61230F54/61561C78" Ref="#PWR?"  Part="1" 
 AR Path="/6123C1D4/61561C78" Ref="#PWR0155"  Part="1" 
-F 0 "#PWR0155" H 7490 1840 50  0001 C CNN
-F 1 "VBUS" H 7380 2090 50  0000 C CNN
-F 2 "" H 7490 1990 50  0001 C CNN
-F 3 "" H 7490 1990 50  0001 C CNN
-	1    7490 1990
+F 0 "#PWR0155" H 7250 1700 50  0001 C CNN
+F 1 "VBUS" H 7140 1950 50  0000 C CNN
+F 2 "" H 7250 1850 50  0001 C CNN
+F 3 "" H 7250 1850 50  0001 C CNN
+	1    7250 1850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7600 2000 7490 2000
+	7645 1860 7250 1860
 Wire Wire Line
-	7490 2000 7490 1990
+	7250 1860 7250 1850
 Wire Wire Line
-	7600 1800 7500 1800
+	7645 1760 7350 1760
 Wire Wire Line
-	7600 1600 7500 1600
+	7645 1660 7450 1660
 Wire Wire Line
-	7600 1400 7500 1400
+	7645 1560 7550 1560
 $Comp
 L local:TXS0104EDR U8
 U 1 1 61626C43
@@ -2215,8 +1903,6 @@ F 3 "" H 10500 2850 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	10500 2850 10500 2910
-Text Label 10400 2710 2    50   ~ 0
-VREF
 Wire Wire Line
 	10400 2710 10400 3010
 $Comp
@@ -2413,17 +2099,6 @@ Wire Wire Line
 Wire Wire Line
 	11650 3130 11850 3130
 $Comp
-L power:PWR_FLAG #FLG0102
-U 1 1 6221E578
-P 8280 1700
-F 0 "#FLG0102" H 8280 1775 50  0001 C CNN
-F 1 "PWR_FLAG" H 8430 1840 50  0000 C CNN
-F 2 "" H 8280 1700 50  0001 C CNN
-F 3 "~" H 8280 1700 50  0001 C CNN
-	1    8280 1700
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:Conn_01x06_Male J5
 U 1 1 622E48B2
 P 12040 1130
@@ -2497,8 +2172,6 @@ Wire Wire Line
 Wire Wire Line
 	10840 930  10840 1530
 Connection ~ 10840 1530
-Wire Wire Line
-	11840 830  11740 830 
 Text Notes 14130 650  0    50   ~ 0
 Maybe some screw terminals?
 $Comp
@@ -2643,13 +2316,6 @@ Wire Wire Line
 Wire Wire Line
 	2600 4100 2600 4200
 Connection ~ 2300 4100
-Text Label 8400 1700 0    50   ~ 0
-VREF
-Connection ~ 8280 1700
-Wire Wire Line
-	8280 1700 8400 1700
-Text Label 11740 830  2    50   ~ 0
-VREF
 $Comp
 L Device:R_Small R18
 U 1 1 62D500BE
@@ -3005,6 +2671,267 @@ Wire Wire Line
 Connection ~ 14850 4100
 Wire Wire Line
 	14850 4100 15250 4100
+Text Notes 13510 1795 0    50   ~ 0
+Termination resistors for the rs485\nPorts 3 & 4
+$Comp
+L Device:R_Small R?
+U 1 1 61A777F3
+P 13460 2105
+AR Path="/61230F54/61A777F3" Ref="R?"  Part="1" 
+AR Path="/6123C1D4/61A777F3" Ref="R31"  Part="1" 
+F 0 "R31" H 13500 2100 50  0000 L CNN
+F 1 "120R" H 13250 2225 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 13460 2105 50  0001 C CNN
+F 3 "~" H 13460 2105 50  0001 C CNN
+	1    13460 2105
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper JP27
+U 1 1 61A797D2
+P 13460 2560
+F 0 "JP27" H 13460 2733 50  0000 C CNN
+F 1 "Jumper" H 13460 2733 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 13460 2560 50  0001 C CNN
+F 3 "~" H 13460 2560 50  0001 C CNN
+	1    13460 2560
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	13460 2260 13460 2205
+Wire Wire Line
+	13460 2005 13460 1960
+Wire Wire Line
+	13460 1960 13410 1960
+Wire Wire Line
+	13460 2860 13410 2860
+Text Label 13410 2860 2    50   ~ 0
+PORT_3_TXD
+Text Label 13410 1960 2    50   ~ 0
+PORT_3_RTS
+$Comp
+L Device:R_Small R?
+U 1 1 61CA47B5
+P 14060 2105
+AR Path="/61230F54/61CA47B5" Ref="R?"  Part="1" 
+AR Path="/6123C1D4/61CA47B5" Ref="R32"  Part="1" 
+F 0 "R32" H 14100 2100 50  0000 L CNN
+F 1 "120R" H 13850 2225 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 14060 2105 50  0001 C CNN
+F 3 "~" H 14060 2105 50  0001 C CNN
+	1    14060 2105
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper JP28
+U 1 1 61CA54E5
+P 14060 2560
+F 0 "JP28" H 14060 2733 50  0000 C CNN
+F 1 "Jumper" H 14060 2733 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14060 2560 50  0001 C CNN
+F 3 "~" H 14060 2560 50  0001 C CNN
+	1    14060 2560
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14060 2260 14060 2205
+Wire Wire Line
+	14060 2005 14060 1960
+Wire Wire Line
+	14060 1960 14010 1960
+Wire Wire Line
+	14060 2860 14010 2860
+Text Label 14010 2860 2    50   ~ 0
+PORT_4_TXD
+Text Label 14010 1960 2    50   ~ 0
+PORT_4_RTS
+$Comp
+L Device:R_Small R?
+U 1 1 61CE4B62
+P 14660 2105
+AR Path="/61230F54/61CE4B62" Ref="R?"  Part="1" 
+AR Path="/6123C1D4/61CE4B62" Ref="R33"  Part="1" 
+F 0 "R33" H 14700 2100 50  0000 L CNN
+F 1 "120R" H 14450 2225 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 14660 2105 50  0001 C CNN
+F 3 "~" H 14660 2105 50  0001 C CNN
+	1    14660 2105
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper JP29
+U 1 1 61CE58B8
+P 14660 2560
+F 0 "JP29" H 14660 2733 50  0000 C CNN
+F 1 "Jumper" H 14660 2733 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 14660 2560 50  0001 C CNN
+F 3 "~" H 14660 2560 50  0001 C CNN
+	1    14660 2560
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14660 2260 14660 2205
+Wire Wire Line
+	14660 2005 14660 1960
+Wire Wire Line
+	14660 1960 14610 1960
+Wire Wire Line
+	14660 2860 14610 2860
+Text Label 14610 2860 2    50   ~ 0
+PORT_3_RXD
+Text Label 14610 1960 2    50   ~ 0
+PORT_3_CTS
+$Comp
+L Device:R_Small R?
+U 1 1 61CE58C8
+P 15260 2105
+AR Path="/61230F54/61CE58C8" Ref="R?"  Part="1" 
+AR Path="/6123C1D4/61CE58C8" Ref="R34"  Part="1" 
+F 0 "R34" H 15300 2100 50  0000 L CNN
+F 1 "120R" H 15050 2225 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" H 15260 2105 50  0001 C CNN
+F 3 "~" H 15260 2105 50  0001 C CNN
+	1    15260 2105
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Jumper JP30
+U 1 1 61CE58D2
+P 15260 2560
+F 0 "JP30" H 15260 2733 50  0000 C CNN
+F 1 "Jumper" H 15260 2733 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 15260 2560 50  0001 C CNN
+F 3 "~" H 15260 2560 50  0001 C CNN
+	1    15260 2560
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	15260 2260 15260 2205
+Wire Wire Line
+	15260 2005 15260 1960
+Wire Wire Line
+	15260 1960 15210 1960
+Wire Wire Line
+	15260 2860 15210 2860
+Text Label 15210 2860 2    50   ~ 0
+PORT_4_RXD
+Text Label 15210 1960 2    50   ~ 0
+PORT_4_CTS
+Wire Wire Line
+	8145 1560 8145 1660
+Wire Wire Line
+	8145 1660 8145 1760
+Connection ~ 8145 1660
+Wire Wire Line
+	8145 1760 8145 1860
+Connection ~ 8145 1760
+Wire Wire Line
+	3400 4050 3400 4000
+Wire Wire Line
+	3500 4000 3500 4150
+Wire Wire Line
+	3250 4150 3500 4150
+Wire Wire Line
+	3700 4050 3700 4000
+Wire Wire Line
+	3600 4150 3600 4000
+Wire Wire Line
+	3600 4150 3850 4150
+Wire Wire Line
+	3400 3500 3400 3175
+Wire Wire Line
+	2175 3175 3400 3175
+Wire Wire Line
+	3500 3275 3500 3500
+Wire Wire Line
+	2125 3275 3500 3275
+Wire Wire Line
+	3600 3500 3600 3375
+Wire Wire Line
+	2075 3375 3600 3375
+Wire Wire Line
+	3700 3475 3700 3500
+Wire Wire Line
+	2025 3475 3700 3475
+Wire Wire Line
+	2625 6300 3000 6300
+Wire Wire Line
+	13625 5650 14050 5650
+Wire Wire Line
+	13575 5750 14050 5750
+Wire Wire Line
+	13525 5850 14050 5850
+Wire Wire Line
+	13475 5950 14050 5950
+Wire Wire Line
+	2575 6400 3000 6400
+Wire Wire Line
+	2525 6500 3000 6500
+Wire Wire Line
+	2475 6600 3000 6600
+Wire Wire Line
+	2075 7000 3725 7000
+Wire Wire Line
+	7375 6875 8950 6875
+Wire Wire Line
+	1300 9475 1425 9475
+Wire Wire Line
+	1775 9225 1775 9475
+Wire Wire Line
+	1775 9475 1625 9475
+Wire Wire Line
+	6800 9475 6925 9475
+Wire Wire Line
+	7275 9475 7125 9475
+Wire Wire Line
+	8145 1660 8255 1660
+$Comp
+L power:Vdrive #PWR0141
+U 1 1 63AC4E8E
+P 8255 1660
+F 0 "#PWR0141" H 8055 1510 50  0001 C CNN
+F 1 "Vdrive" H 8270 1833 50  0000 C CNN
+F 2 "" H 8255 1660 50  0001 C CNN
+F 3 "" H 8255 1660 50  0001 C CNN
+	1    8255 1660
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Vdrive #PWR0164
+U 1 1 63B0410D
+P 10400 2710
+F 0 "#PWR0164" H 10200 2560 50  0001 C CNN
+F 1 "Vdrive" H 10415 2883 50  0000 C CNN
+F 2 "" H 10400 2710 50  0001 C CNN
+F 3 "" H 10400 2710 50  0001 C CNN
+	1    10400 2710
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Vdrive #PWR0165
+U 1 1 63B06D95
+P 11750 830
+F 0 "#PWR0165" H 11550 680 50  0001 C CNN
+F 1 "Vdrive" H 11765 1003 50  0000 C CNN
+F 2 "" H 11750 830 50  0001 C CNN
+F 3 "" H 11750 830 50  0001 C CNN
+	1    11750 830 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11750 830  11840 830 
+Connection ~ 14650 5650
+Wire Wire Line
+	14650 5650 14700 5650
+Connection ~ 14650 5750
+Wire Wire Line
+	14650 5750 14700 5750
+Connection ~ 14650 5850
+Wire Wire Line
+	14650 5850 14700 5850
+Connection ~ 14650 5950
+Wire Wire Line
+	14650 5950 14700 5950
 Wire Bus Line
 	7275 5825 7275 6775
 Wire Bus Line
