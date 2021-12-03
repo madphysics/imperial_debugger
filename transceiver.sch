@@ -21,12 +21,12 @@ Wire Bus Line
 	1575 5950 1975 5950
 Wire Bus Line
 	6875 5825 7275 5825
-Text GLabel 1075 2750 0    50   Input ~ 0
-ADBUS[0..7]
-Text GLabel 12575 5300 0    50   Input ~ 0
+Text GLabel 1125 2825 0    50   Input ~ 0
 BDBUS[0..7]
-Text GLabel 1575 5950 0    50   Input ~ 0
+Text GLabel 12575 5300 0    50   Input ~ 0
 CDBUS[0..7]
+Text GLabel 1575 5950 0    50   Input ~ 0
+ADBUS[0..7]
 Text GLabel 6875 5825 0    50   Input ~ 0
 DDBUS[0..7]
 Entry Wire Line
@@ -102,25 +102,23 @@ Wire Wire Line
 Wire Wire Line
 	1625 3875 2025 3875
 Text Label 1700 3175 0    50   ~ 0
-ADBUS0
+BDBUS0
 Text Label 1700 3275 0    50   ~ 0
-ADBUS1
+BDBUS1
 Text Label 1700 3375 0    50   ~ 0
-ADBUS2
+BDBUS2
 Text Label 1700 3475 0    50   ~ 0
-ADBUS3
+BDBUS3
 Text Label 1700 3575 0    50   ~ 0
-ADBUS4
+BDBUS4
 Text Label 1700 3675 0    50   ~ 0
-ADBUS5
+BDBUS5
 Text Label 1700 3775 0    50   ~ 0
-ADBUS6
+BDBUS6
 Text Label 1700 3875 0    50   ~ 0
-ADBUS7
+BDBUS7
 Text Notes 575  1900 0    98   ~ 0
 Mapping of Bus to Serial\n0: TXD\n1: RXD\n2: RTSn\n3: CTSn\n4: DTRn\n5: DSRn\n6: DCDn\n7: TXDEN
-Text Notes 2725 1150 0    98   ~ 0
-BUSA: CMOS/TTL\nBUSB: RS232\nBUSC: RS422/485/RS232\nBUSC: RS422/485/RS232\n
 $Comp
 L Connector_Generic:Conn_02x04_Odd_Even JP4
 U 1 1 6124449A
@@ -165,21 +163,21 @@ Wire Wire Line
 Wire Wire Line
 	13075 6350 13475 6350
 Text Label 13150 5650 0    50   ~ 0
-BDBUS0
+CDBUS0
 Text Label 13150 5750 0    50   ~ 0
-BDBUS1
+CDBUS1
 Text Label 13150 5850 0    50   ~ 0
-BDBUS2
+CDBUS2
 Text Label 13150 5950 0    50   ~ 0
-BDBUS3
+CDBUS3
 Text Label 13150 6050 0    50   ~ 0
-BDBUS4
+CDBUS4
 Text Label 13150 6150 0    50   ~ 0
-BDBUS5
+CDBUS5
 Text Label 13150 6250 0    50   ~ 0
-BDBUS6
+CDBUS6
 Text Label 13150 6350 0    50   ~ 0
-BDBUS7
+CDBUS7
 $Comp
 L Connector_Generic:Conn_02x04_Odd_Even JP23
 U 1 1 6124E2D8
@@ -203,14 +201,6 @@ NoConn ~ 13475 6050
 NoConn ~ 13475 6150
 NoConn ~ 13475 6250
 NoConn ~ 13475 6350
-Wire Wire Line
-	14550 5650 14650 5650
-Wire Wire Line
-	14550 5750 14650 5750
-Wire Wire Line
-	14550 5850 14650 5850
-Wire Wire Line
-	14550 5950 14650 5950
 Text Label 14700 5650 0    50   ~ 0
 TXD_2
 Text Label 14700 5750 0    50   ~ 0
@@ -228,21 +218,21 @@ Wire Wire Line
 Wire Wire Line
 	2075 6900 2475 6900
 Text Label 2150 6300 0    50   ~ 0
-CDBUS0
+ADBUS0
 Text Label 2150 6400 0    50   ~ 0
-CDBUS1
+ADBUS1
 Text Label 2150 6500 0    50   ~ 0
-CDBUS2
+ADBUS2
 Text Label 2150 6600 0    50   ~ 0
-CDBUS3
+ADBUS3
 Text Label 2150 6700 0    50   ~ 0
-CDBUS4
+ADBUS4
 Text Label 2150 6800 0    50   ~ 0
-CDBUS5
+ADBUS5
 Text Label 2150 6900 0    50   ~ 0
-CDBUS6
+ADBUS6
 Text Label 2150 7000 0    50   ~ 0
-CDBUS7
+ADBUS7
 $Comp
 L Connector_Generic:Conn_02x04_Odd_Even JP8
 U 1 1 6125202B
@@ -2649,17 +2639,17 @@ Wire Wire Line
 	12750 4100 12750 4000
 Connection ~ 13100 4100
 Text Label 12750 3285 0    50   ~ 0
-ADBUS0
-Text Label 13100 3285 0    50   ~ 0
-ADBUS1
-Text Label 13850 3285 0    50   ~ 0
-BDBUS1
-Text Label 13500 3285 0    50   ~ 0
 BDBUS0
-Text Label 14850 3285 0    50   ~ 0
+Text Label 13100 3285 0    50   ~ 0
+BDBUS1
+Text Label 13850 3285 0    50   ~ 0
 CDBUS1
-Text Label 14500 3285 0    50   ~ 0
+Text Label 13500 3285 0    50   ~ 0
 CDBUS0
+Text Label 14850 3285 0    50   ~ 0
+ADBUS1
+Text Label 14500 3285 0    50   ~ 0
+ADBUS0
 Text Label 15600 3285 0    50   ~ 0
 DDBUS1
 Text Label 15250 3285 0    50   ~ 0
@@ -2920,18 +2910,14 @@ F 3 "" H 11750 830 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	11750 830  11840 830 
-Connection ~ 14650 5650
 Wire Wire Line
-	14650 5650 14700 5650
-Connection ~ 14650 5750
+	14550 5650 14700 5650
 Wire Wire Line
-	14650 5750 14700 5750
-Connection ~ 14650 5850
+	14550 5750 14700 5750
 Wire Wire Line
-	14650 5850 14700 5850
-Connection ~ 14650 5950
+	14550 5850 14700 5850
 Wire Wire Line
-	14650 5950 14700 5950
+	14550 5950 14700 5950
 Wire Bus Line
 	7275 5825 7275 6775
 Wire Bus Line
@@ -2940,4 +2926,6 @@ Wire Bus Line
 	12975 5300 12975 6250
 Wire Bus Line
 	1525 2825 1525 3775
+Text Notes 2760 1155 0    98   ~ 0
+BUSA: CMOS/TTL\nBUSB: RS232\nBUSC: RS422/485/RS232\nBUSC: RS422/485/RS232\n
 $EndSCHEMATC

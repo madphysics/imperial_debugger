@@ -460,8 +460,6 @@ Text Label 9500 6150 0    50   ~ 0
 D_N
 Text Label 9500 6250 0    50   ~ 0
 D_P
-Wire Wire Line
-	8750 5350 8750 4750
 $Comp
 L Device:CP C8
 U 1 1 612729F0
@@ -490,10 +488,6 @@ Wire Wire Line
 	8750 5450 8750 5350
 Wire Wire Line
 	9150 5475 9150 5350
-Connection ~ 8750 5350
-Connection ~ 9150 5350
-Wire Wire Line
-	9150 5350 8750 5350
 Wire Wire Line
 	8750 5800 9150 5800
 Wire Wire Line
@@ -537,9 +531,6 @@ Wire Wire Line
 	11050 4725 10950 4725
 Wire Wire Line
 	10950 4725 10950 4850
-Connection ~ 11050 4725
-Wire Wire Line
-	11050 4725 11050 4500
 Wire Wire Line
 	10950 4725 10850 4725
 Wire Wire Line
@@ -549,28 +540,6 @@ Wire Wire Line
 	10650 4850 10650 4500
 Wire Wire Line
 	10550 4850 10550 4500
-$Comp
-L power:VCC #PWR0109
-U 1 1 61296F5B
-P 11050 4500
-F 0 "#PWR0109" H 11050 4350 50  0001 C CNN
-F 1 "VCC" H 11065 4673 50  0000 C CNN
-F 2 "" H 11050 4500 50  0001 C CNN
-F 3 "" H 11050 4500 50  0001 C CNN
-	1    11050 4500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR0110
-U 1 1 61297529
-P 8750 4750
-F 0 "#PWR0110" H 8750 4600 50  0001 C CNN
-F 1 "VCC" H 8765 4923 50  0000 C CNN
-F 2 "" H 8750 4750 50  0001 C CNN
-F 3 "" H 8750 4750 50  0001 C CNN
-	1    8750 4750
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	9850 5150 9500 5150
 $Comp
@@ -660,8 +629,6 @@ F 3 "" H 9500 9250 50  0001 C CNN
 	1    9500 9250
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9150 5350 9850 5350
 Wire Wire Line
 	9850 6450 9550 6450
 Wire Wire Line
@@ -861,18 +828,6 @@ $EndComp
 Wire Wire Line
 	10900 4000 10900 3800
 $Comp
-L power:VCC #PWR0119
-U 1 1 612E2765
-P 10400 3450
-F 0 "#PWR0119" H 10400 3300 50  0001 C CNN
-F 1 "VCC" H 10415 3623 50  0000 C CNN
-F 2 "" H 10400 3450 50  0001 C CNN
-F 3 "" H 10400 3450 50  0001 C CNN
-	1    10400 3450
-	1    0    0    -1  
-$EndComp
-Connection ~ 10400 3450
-$Comp
 L local:VPHY #PWR0120
 U 1 1 612E7131
 P 10550 4500
@@ -1066,7 +1021,7 @@ BDBUS4
 Text Label 12425 6550 0    50   ~ 0
 BDBUS5
 Text Label 12425 6650 0    50   ~ 0
-BDBUS0
+BDBUS6
 Text Label 12425 6750 0    50   ~ 0
 BDBUS7
 Wire Wire Line
@@ -1517,6 +1472,20 @@ Text Label 1720 4800 0    50   ~ 0
 D+
 Text Label 1720 4900 0    50   ~ 0
 D-
+Wire Wire Line
+	8750 5350 9150 5350
+Connection ~ 9150 5350
+Wire Wire Line
+	9150 5350 9850 5350
+Connection ~ 9850 5350
+Wire Wire Line
+	9850 5350 9855 5350
+Text Label 9150 5350 0    50   ~ 0
+VREGOUT
+Wire Wire Line
+	11050 4725 11050 3450
+Wire Wire Line
+	11050 3450 10900 3450
 Wire Bus Line
 	12850 5250 12850 5950
 Wire Bus Line
@@ -1525,4 +1494,8 @@ Wire Bus Line
 	12850 7050 12850 7750
 Wire Bus Line
 	12850 7950 12850 8650
+Connection ~ 11050 4725
+Connection ~ 10900 3450
+Text Label 10655 3450 0    50   ~ 0
+VREGOUT
 $EndSCHEMATC
