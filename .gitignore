@@ -28,3 +28,4 @@ _autosave-*
 # Readme html file
 README.html
 /imperial_debugger-backups/
+*.*-bak
