@@ -2121,6 +2121,155 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Diode:ESD5Zxx"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "ESD5Zxx"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SOD-523"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "ESD Protection Diode, SOD-523"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "esd tvs unidirectional diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D?SOD?523*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ESD5Zxx_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "ESD5Zxx_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Interface_USB:FT4232H"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3584,257 +3733,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Power_Protection:SP0502BAJT"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 5.715 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SP0502BAJT"
-				(at 5.715 0.635 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-				(at 5.715 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf"
-				(at 3.175 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "TVS Diode Array, 5.5V Standoff, 2 Channels, SC-70 package"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "usb esd protection suppression transient"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?323*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SP0502BAJT_0_0"
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "SP0502BAJT_0_1"
-				(rectangle
-					(start -4.445 2.54)
-					(end 4.445 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.302 1.016) (xy -3.302 1.27) (xy -1.905 1.27) (xy -1.778 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.54) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.27) (xy -2.54 -1.27) (xy 2.54 -1.27) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.27) (xy -1.905 0) (xy -3.175 0) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -1.27)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 1.016) (xy 1.778 1.27) (xy 3.175 1.27) (xy 3.302 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy 1.905 0) (xy 3.175 0) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SP0502BAJT_1_1"
-				(pin passive line
-					(at -2.54 5.08 270)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Switching:LM2594M-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5065,7 +4963,7 @@
 		)
 		(uuid "72a47bb9-ca27-43c2-8b85-735d5d8d501b")
 	)
-	(text "Take USB VBus, generate 3v3 from it (500mA total)\nFrom 3v3 Generate VPLL and VPHY"
+	(text "Take USB VBus, generate 3V3 from it (500mA total)\nFrom 3V3 Generate VPLL and VPHY"
 		(exclude_from_sim no)
 		(at 152.4 72.898 0)
 		(effects
@@ -5103,6 +5001,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0116c594-4ab4-441b-a606-9ee027b5c88c")
+	)
+	(junction
+		(at 83.82 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08d3f1ad-3032-4345-8991-2f44e54c6142")
 	)
 	(junction
 		(at 58.42 100.203)
@@ -5157,12 +5061,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24a0a8f6-d7dc-415f-bb79-dbb409f1ddcf")
-	)
-	(junction
-		(at 86.36 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b2e8e99-3232-4acd-91bf-f64a98756be7")
 	)
 	(junction
 		(at 298.45 96.52)
@@ -5381,6 +5279,12 @@
 		(uuid "ad242174-1ab6-44a8-9c9c-74517068a09d")
 	)
 	(junction
+		(at 86.36 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b018eae8-7170-4dcb-b6e8-dae5a94ba99e")
+	)
+	(junction
 		(at 280.67 120.015)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5391,6 +5295,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc4570c8-0ea2-49ed-becd-59f21e6ca542")
+	)
+	(junction
+		(at 81.28 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bdcf7025-90a9-4c75-b4f8-09aee7e8a44a")
 	)
 	(junction
 		(at 283.21 234.95)
@@ -5493,12 +5403,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa4e2cf1-d740-426e-9b96-4c77df1525bb")
-	)
-	(junction
-		(at 81.28 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fc19ec35-a0aa-4d3b-ba3f-c31385f21a4e")
 	)
 	(junction
 		(at 278.13 234.95)
@@ -6096,16 +6000,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 139.7) (xy 93.98 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e2c90ae-b9bb-4eba-8f95-c2af4b6bfb7b")
-	)
-	(wire
-		(pts
 			(xy 250.19 196.85) (xy 224.155 196.85)
 		)
 		(stroke
@@ -6206,6 +6100,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 142.24) (xy 86.36 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28b90bc6-39ce-4fc7-b1f4-4a959572f41a")
+	)
+	(wire
+		(pts
 			(xy 228.6 163.83) (xy 228.6 171.45)
 		)
 		(stroke
@@ -6253,16 +6157,6 @@
 			(type default)
 		)
 		(uuid "2a7e181e-cee4-4176-b931-d87490269157")
-	)
-	(wire
-		(pts
-			(xy 81.28 142.24) (xy 81.28 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b3dbf74-d1be-4601-a872-b6a885f74ac1")
 	)
 	(wire
 		(pts
@@ -6353,6 +6247,16 @@
 			(type default)
 		)
 		(uuid "3258b882-9953-420b-adcb-03c60d21c6f4")
+	)
+	(wire
+		(pts
+			(xy 86.36 142.24) (xy 93.98 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3321a92f-08ce-487a-8fe2-a8a04a9519ee")
 	)
 	(wire
 		(pts
@@ -6683,6 +6587,16 @@
 			(type default)
 		)
 		(uuid "4d15f545-9616-4019-85b9-79a9245954c9")
+	)
+	(wire
+		(pts
+			(xy 81.28 139.7) (xy 81.28 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d4c6a68-f4bf-46d6-bc40-3f87aeffdabe")
 	)
 	(wire
 		(pts
@@ -7236,16 +7150,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 142.24) (xy 81.28 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8446df4f-4a74-4642-84c3-119dd0015920")
-	)
-	(wire
-		(pts
 			(xy 232.41 135.89) (xy 250.19 135.89)
 		)
 		(stroke
@@ -7366,7 +7270,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 139.7) (xy 86.36 139.7)
+			(xy 58.42 139.7) (xy 81.28 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7706,6 +7610,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 166.37) (xy 83.82 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aff02e7b-66d3-4d03-9f60-811640f59102")
+	)
+	(wire
+		(pts
 			(xy 153.67 87.503) (xy 160.02 87.503)
 		)
 		(stroke
@@ -7726,7 +7640,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 142.24) (xy 93.98 142.24)
+			(xy 58.42 142.24) (xy 86.36 142.24)
 		)
 		(stroke
 			(width 0)
@@ -8066,6 +7980,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 166.37) (xy 83.82 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d687bef0-a47c-4924-9092-35e279fb90f3")
+	)
+	(wire
+		(pts
 			(xy 121.92 90.043) (xy 121.92 88.773)
 		)
 		(stroke
@@ -8366,6 +8290,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 139.7) (xy 93.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee93d413-3163-4531-9c01-0b62acd42fea")
+	)
+	(wire
+		(pts
 			(xy 222.25 135.89) (xy 232.41 135.89)
 		)
 		(stroke
@@ -8453,16 +8387,6 @@
 			(type default)
 		)
 		(uuid "f578337e-6f13-446a-9266-d4662d954cc2")
-	)
-	(wire
-		(pts
-			(xy 86.36 139.7) (xy 86.36 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f59c6406-bb4f-447a-a5ab-44513fe51f8b")
 	)
 	(wire
 		(pts
@@ -15558,123 +15482,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Power_Protection:SP0502BAJT")
-		(at 83.82 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000062f4b018")
-		(property "Reference" "D20"
-			(at 89.027 162.6616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "RClamp0582BQ"
-			(at 89.027 164.973 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-416"
-			(at 89.535 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/1851169.pdf"
-			(at 86.995 160.655 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFN" "Samtech"
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFP" "RCLAMP0582BQTCT"
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER" "Mouser"
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_LINK" "https://www.mouser.co.uk/ProductDetail/Semtech/RCLAMP0582BQTCT?qs=rBWM4%252BvDhIdyuNQteOG89g%3D%3D"
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER_PN" "947-RCLAMP0582BQTCT"
-			(at 83.82 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "5525e973-db61-478d-933a-88b5450c8757")
-		)
-		(pin "1"
-			(uuid "85b0bcb0-a76b-4bf7-876b-868dd7ace3cc")
-		)
-		(pin "2"
-			(uuid "ac78e4ca-d6a9-4599-939e-b5a5452870d9")
-		)
-		(instances
-			(project ""
-				(path "/27b24fdb-ea34-4d3d-9e10-817c50f78377/00000000-0000-0000-0000-000061230f54"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 205.74 162.56 0)
 		(unit 1)
@@ -15950,6 +15757,76 @@
 			(project "imperial_debugger"
 				(path "/27b24fdb-ea34-4d3d-9e10-817c50f78377/00000000-0000-0000-0000-000061230f54"
 					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:ESD5Zxx")
+		(at 86.36 162.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53bb4a9a-b714-4fd8-a72d-9c9a18cdcf9e")
+		(property "Reference" "D23"
+			(at 88.9 161.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ESD5Zxx"
+			(at 88.9 163.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 81.915 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+			(at 86.36 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD Protection Diode, SOD-523"
+			(at 86.36 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45f2c7b5-ccea-47d6-9c02-1f641304f472")
+		)
+		(pin "2"
+			(uuid "e80c8807-b8f0-4d66-94e4-fc779979919b")
+		)
+		(instances
+			(project ""
+				(path "/27b24fdb-ea34-4d3d-9e10-817c50f78377/00000000-0000-0000-0000-000061230f54"
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -16444,6 +16321,75 @@
 			(project "imperial_debugger"
 				(path "/27b24fdb-ea34-4d3d-9e10-817c50f78377/00000000-0000-0000-0000-000061230f54"
 					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:ESD5Zxx")
+		(at 81.28 162.56 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6858a1d-4b99-474b-ae05-e23a297ad39a")
+		(property "Reference" "D20"
+			(at 74.93 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ESD5Zxx"
+			(at 72.39 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 76.835 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "ESD Protection Diode, SOD-523"
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ef45213-5b02-43fc-80eb-5365265bccdf")
+		)
+		(pin "2"
+			(uuid "310c05c8-3876-466d-bf18-af4ce35d6af1")
+		)
+		(instances
+			(project "imperial_debugger"
+				(path "/27b24fdb-ea34-4d3d-9e10-817c50f78377/00000000-0000-0000-0000-000061230f54"
+					(reference "D20")
 					(unit 1)
 				)
 			)
