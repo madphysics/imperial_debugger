@@ -29,5 +29,6 @@ _autosave-*
 README.html
 /imperial_debugger-backups/
 *.*-bak
-/fp-info-cache
+**/fp-info-cache
+**/sub-modules/*/*/fp-info-cache
 **/*-backups/*.zip
