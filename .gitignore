@@ -30,3 +30,4 @@ README.html
 /imperial_debugger-backups/
 *.*-bak
 /fp-info-cache
+**/*-backups/*.zip
