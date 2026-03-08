@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "poka-yoke_rxtx")(type "KiCad")(uri "${KIPRJMOD}/local_libs/poka-yoke_rxtx/poka-yoke_rxtx.kicad_sym")(options "")(descr ""))
+)
