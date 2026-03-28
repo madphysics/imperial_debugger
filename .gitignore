@@ -32,3 +32,4 @@ README.html
 **/fp-info-cache
 **/sub-modules/*/*/fp-info-cache
 **/*-backups/*.zip
+*.lck
