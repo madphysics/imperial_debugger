@@ -8223,6 +8223,39 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" ""
+			(at 37.592 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 37.592 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 37.592 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f0bfb1d5-da05-4114-8084-331bd6a50c12")
 		)
@@ -8356,6 +8389,39 @@
 			)
 		)
 		(property "SUPPLIER_PN" "595-TLV75518PDBVR"
+			(at 69.088 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 69.088 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 69.088 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
 			(at 69.088 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8813,7 +8879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021121.pdf"
 			(at 40.386 141.986 0)
 			(hide yes)
 			(show_name no)
@@ -8826,6 +8892,94 @@
 		)
 		(property "Description" ""
 			(at 40.386 141.986 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Amphenol FCI"
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "20021121-00008D4LF"
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "649-221121-00008D4LF"
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
+			(at 40.386 141.986 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 40.386 141.986 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11177,6 +11331,61 @@
 				)
 			)
 		)
+		(property "MFP" "4.7k 1%"
+			(at 63.5 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 63.5 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 63.5 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
+			(at 63.5 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 63.5 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4dff132a-5cac-4656-a8f2-b8f9a2a96552")
 		)
@@ -11280,6 +11489,17 @@
 			)
 		)
 		(property "SUPPLIER_PN" "603-RT0603DRE074K7L"
+			(at 71.12 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
 			(at 71.12 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11503,7 +11723,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/3/826/1/n_catalog_partition01_en.pdf"
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -11547,6 +11767,61 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 25.4 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" ""
+			(at 25.4 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 25.4 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 25.4 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
+			(at 25.4 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -11865,7 +12140,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI500N025UK-TP"
+		(property "Value" "FDV301N"
 			(at 97.282 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11909,7 +12184,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "OnSemi"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -11920,7 +12195,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "FDV301N"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -11931,7 +12206,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -11942,7 +12217,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "512-FDV301N"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12408,6 +12683,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6e415331-3da4-4eff-8b18-2b3e314bb157")
 		)
@@ -12655,6 +12974,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8e3ae6b8-00c4-4615-8bb3-c524a8534645")
 		)
@@ -12736,6 +13099,94 @@
 		)
 		(property "Description" "4-channel 1Gbps TVS Diode Array, 2.3pF, 4.5V breakdown, 30kV contact & air gap, SOT-23-5"
 			(at 299.72 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
+			(at 284.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 284.48 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13162,6 +13613,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ff845c96-70f4-4dca-b30b-04dd63c91151")
 		)
@@ -13306,6 +13801,39 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" ""
+			(at 25.4 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 25.4 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 25.4 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "74a24d24-b629-4efe-a78d-c7a1ed4fb9c2")
 		)
@@ -13386,7 +13914,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Amphenol FCI"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13397,7 +13925,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "10129382-912003BLF"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13408,7 +13936,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13419,7 +13947,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "649-1012938291203BLF"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13967,6 +14495,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "060e1791-706c-4946-871d-1126279b41e1")
 		)
@@ -14089,7 +14661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI500N025UK-TP"
+		(property "Value" "FDV301N"
 			(at 64.77 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14111,7 +14683,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDV301N-D.PDF"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14133,7 +14705,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "OnSemi"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14144,7 +14716,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "FDV301N"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14155,7 +14727,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14166,7 +14738,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "512-FDV301N"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14305,6 +14877,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "514ed1ba-ef84-4f12-8b75-e9b95f24cdce")
 		)
@@ -14394,7 +15010,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Amphenol FCI"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14405,7 +15021,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "10129382-912003BLF"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14416,7 +15032,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14427,7 +15043,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "649-1012938291203BLF"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -14592,7 +15208,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Amphenol FCI"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -14603,7 +15219,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "10129382-912003BLF"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -14614,7 +15230,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -14625,7 +15241,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "649-1012938291203BLF"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -14790,7 +15406,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Amphenol FCI"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14801,7 +15417,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "10129382-912003BLF"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14812,7 +15428,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14823,7 +15439,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "649-1012938291203BLF"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14988,6 +15604,50 @@
 				)
 			)
 		)
+		(property "SUPPLIER" "Mouser"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "467943ff-e072-49b5-8480-e545a6f45ce3")
 		)
@@ -15069,6 +15729,50 @@
 		)
 		(property "Description" "4-channel 1Gbps TVS Diode Array, 2.3pF, 4.5V breakdown, 30kV contact & air gap, SOT-23-5"
 			(at 299.72 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 284.48 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-ESDS304DBVR"
+			(at 284.48 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Texas Instruments"
+			(at 284.48 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESDS304DBVR"
+			(at 284.48 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

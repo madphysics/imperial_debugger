@@ -205,6 +205,7 @@
         0.1,
         0.15,
         0.2,
+        0.25,
         0.4,
         0.6
       ],
@@ -535,6 +536,24 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "bus_width": 10,
+        "clearance": 0.01,
+        "diff_pair_gap": 0.245,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "pcb_color": "rgb(255, 255, 156)",
+        "priority": 0,
+        "schematic_color": "rgb(190, 255, 157)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 8
       }
     ],
     "meta": {
@@ -542,7 +561,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "USB",
+        "pattern": "/USB and Power/D(+|-)"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB and Power/D_(N|P)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -625,15 +653,81 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ALT_SUPPLIER_LINK",
+          "name": "ALT_SUPPLIER_LINK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ALT_SUPPLIER_PN",
+          "name": "ALT_SUPPLIER_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFN",
+          "name": "MFN",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MFP",
+          "name": "MFP",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Notes",
+          "name": "Notes",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER_LINK",
+          "name": "SUPPLIER_LINK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER_PN",
+          "name": "SUPPLIER_PN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "ALT_SUPPLIER",
+          "name": "ALT_SUPPLIER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${QUANTITY}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -694,7 +788,7 @@
         "uuid": "27b24fdb-ea34-4d3d-9e10-817c50f78377"
       }
     ],
-    "used_designators": "#PWR45,TP1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
