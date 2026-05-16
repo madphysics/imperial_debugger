@@ -9854,6 +9854,17 @@
 				)
 			)
 		)
+		(property "MFP" "0R"
+			(at 33.02 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee4017a1-4244-49b5-84dc-fbc0baf53ca4")
 		)
@@ -9978,6 +9989,17 @@
 				)
 			)
 		)
+		(property "MFP" "10R 1%"
+			(at 96.52 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90c6eb12-7610-434e-997d-a4b4e7058bba")
 		)
@@ -10093,6 +10115,17 @@
 		)
 		(property "SUPPLIER_PN" "603-RT0603FRE0710RL"
 			(at 96.52 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "10R 1%"
+			(at 96.52 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13326,6 +13359,17 @@
 				)
 			)
 		)
+		(property "MFP" "12k 1%"
+			(at 240.03 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d90aa7a-ea82-4f55-83cb-4f3eae574be3")
 		)
@@ -15212,6 +15256,17 @@
 				)
 			)
 		)
+		(property "MFP" "0R"
+			(at 267.97 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "91601305-70b6-4fbf-addd-4be00ff908f3")
 		)
@@ -15282,6 +15337,94 @@
 		)
 		(property "Description" ""
 			(at 201.93 201.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Microchip"
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "93LC56B-I/MS"
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "579-93LC56B-I/MS"
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
+			(at 201.93 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 201.93 201.93 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15508,6 +15651,17 @@
 				)
 			)
 		)
+		(property "MFP" "2k 1%"
+			(at 216.535 204.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "beb9f745-52c6-4e41-83b2-e83b84773cfd")
 		)
@@ -15623,6 +15777,17 @@
 		)
 		(property "SUPPLIER_PN" "603-RT0402FRE1310KL"
 			(at 213.36 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "10k 1%"
+			(at 213.36 193.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15823,6 +15988,17 @@
 		)
 		(property "SUPPLIER_PN" "603-RT0402FRE1310KL"
 			(at 198.12 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "10k 1%"
+			(at 198.12 154.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17333,6 +17509,17 @@
 				)
 			)
 		)
+		(property "MFP" "5.1k 1%"
+			(at 71.12 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e67d9467-ac76-4fec-ac20-01e04fe4ba8a")
 		)
@@ -17406,6 +17593,50 @@
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
 			(at 86.36 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "OnSemi"
+			(at 86.36 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESD5Z2.5T1G"
+			(at 86.36 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 86.36 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "863-ESD5Z2.5T1G"
+			(at 86.36 162.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17496,7 +17727,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "GCT"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -17507,7 +17738,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "SWT0110-020016SSA"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -17518,7 +17749,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Farnell"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -17529,7 +17760,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "4715649"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -17951,7 +18182,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Same Sky"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17962,7 +18193,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "UJ20-C-H-G-SMT-2A-P16-TR"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17973,7 +18204,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17984,7 +18215,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "179-CHGSMT2AP16TR"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -18202,6 +18433,17 @@
 				)
 			)
 		)
+		(property "MFP" "5.1k 1%"
+			(at 63.5 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ad982f37-9671-485d-b080-57642db59271")
 		)
@@ -18274,6 +18516,50 @@
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
 			(at 81.28 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "OnSemi"
+			(at 81.28 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ESD5Z2.5T1G"
+			(at 81.28 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 81.28 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "863-ESD5Z2.5T1G"
+			(at 81.28 162.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -4284,7 +4284,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Samtec"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4295,7 +4295,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "FTS-103-04-F-D"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4306,7 +4306,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4317,7 +4317,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "200-FTS-103-04-F-D"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4456,6 +4456,50 @@
 			)
 		)
 		(property "Description" "RS-485, RS-422 full duplex 12 Mbps transceiver, SOIC-14"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Renesas"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ISL83076EIBZA"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "968-ISL83076EIBZA"
 			(at 160.02 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4695,7 +4739,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 92.71 135.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4729,6 +4773,50 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
 			(at 90.17 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -4855,7 +4943,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 58.42 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4889,6 +4977,50 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
 			(at 55.88 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4978,7 +5110,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Harwin"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4989,7 +5121,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "M50-3530242"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5000,7 +5132,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5011,7 +5143,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "855-M50-3530242"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5136,6 +5268,50 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Wurth"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "62200421121"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "710-62200421121"
 			(at 87.63 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -5334,7 +5510,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 251.46 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5345,7 +5521,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "651-1751277"
 			(at 251.46 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5488,6 +5664,50 @@
 				)
 			)
 		)
+		(property "MFN" "Texas Instruments"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "SN74LVC1GU04DRLR"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "595-SN74LVC1GU04DRLR"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "2a9e9c72-5603-43b2-b20a-f124cec650a9")
 		)
@@ -5536,7 +5756,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 143.51 66.0335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5570,6 +5790,50 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic X7R"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
 			(at 146.05 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5738,6 +6002,50 @@
 				)
 			)
 		)
+		(property "MFN" "Wurth"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "62200421121"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "710-62200421121"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8f772bff-7179-4e34-ac75-f92fe90e5f47")
 		)
@@ -5816,6 +6124,50 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 190.5 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic 1/4 W"
+			(at 190.5 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "120R 1%"
+			(at 190.5 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 190.5 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "279-CRGP0603F120R"
+			(at 190.5 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5983,7 +6335,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Wurth"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5994,7 +6346,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "613012243121"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6005,7 +6357,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6016,7 +6368,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "710-613012243121"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6180,6 +6532,50 @@
 				)
 			)
 		)
+		(property "MFN" "Wurth"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "62200421121"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "710-62200421121"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "82cb9919-be9b-4e5c-8cc2-d0af8a00e40f")
 		)
@@ -6224,7 +6620,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 97.79 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6258,6 +6654,50 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
 			(at 95.25 118.11 0)
 			(hide yes)
 			(show_name no)

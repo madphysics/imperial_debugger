@@ -3138,6 +3138,50 @@
 				)
 			)
 		)
+		(property "MFN" "Generic"
+			(at 73.66 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
+			(at 73.66 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 73.66 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
+			(at 73.66 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "744147c2-809e-48ba-9779-2279df5af21f")
 		)
@@ -3209,6 +3253,50 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 123.19 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic X7R"
+			(at 123.19 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 123.19 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 123.19 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
 			(at 123.19 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3300,6 +3388,50 @@
 				)
 			)
 		)
+		(property "MFN" "Generic X7R"
+			(at 71.12 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 71.12 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 71.12 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 71.12 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e1c91d42-5c9f-4c2a-8864-95555facfe6c")
 		)
@@ -3372,6 +3504,50 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 64.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic"
+			(at 64.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "4.7k 1%"
+			(at 64.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 64.77 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
 			(at 64.77 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -3542,6 +3718,50 @@
 				)
 			)
 		)
+		(property "MFN" "Generic X7R"
+			(at 119.38 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 119.38 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 119.38 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 119.38 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82efc1bc-18b5-4eb8-bf87-23c952548432")
 		)
@@ -3613,6 +3833,50 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 130.81 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic X7R"
+			(at 130.81 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 130.81 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 130.81 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
 			(at 130.81 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3726,7 +3990,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 139.7 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3737,7 +4001,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "80-T491T106K010"
 			(at 139.7 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3896,7 +4160,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 243.84 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3907,7 +4171,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "651-1725698"
 			(at 243.84 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4046,6 +4310,50 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 119.38 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic X7R"
+			(at 119.38 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 119.38 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 119.38 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
 			(at 119.38 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -4484,7 +4792,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "100nF"
 			(at 121.92 170.1862 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4518,6 +4826,50 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 119.38 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFN" "Generic X7R"
+			(at 119.38 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "100nF"
+			(at 119.38 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 119.38 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
 			(at 119.38 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -4764,7 +5116,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Wurth"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4775,7 +5127,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "613012243121"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4786,7 +5138,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4797,7 +5149,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "710-613012243121"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5045,6 +5397,50 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MFN" "Analog Devices"
+			(at 95.25 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "ADM3312EARUZR7"
+			(at 95.25 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" "Mouser"
+			(at 95.25 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_PN" "584-ADM3312EARUZR7"
+			(at 95.25 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "20"

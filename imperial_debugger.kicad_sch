@@ -3581,7 +3581,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -3717,7 +3717,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Keystone Electronics"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3728,7 +3728,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "5006"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3739,7 +3739,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3750,7 +3750,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "534-5006"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3783,7 +3783,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_LINK" ""
+		(property "SUPPLIER_LINK" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/5001?qs=q0tsjPZWdm%2FW0vdr%2FwowKg%3D%3D"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3884,7 +3884,7 @@
 				)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "Keystone Electronics"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3895,7 +3895,7 @@
 				)
 			)
 		)
-		(property "MFP" ""
+		(property "MFP" "5006"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3906,7 +3906,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" ""
+		(property "SUPPLIER" "Mouser"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3917,7 +3917,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" ""
+		(property "SUPPLIER_PN" "534-5006"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3990,7 +3990,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4065,7 +4065,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4140,7 +4140,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4215,7 +4215,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4444,7 +4444,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4519,7 +4519,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
