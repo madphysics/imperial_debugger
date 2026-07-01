@@ -10477,7 +10477,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1A 20V"
+		(property "Value" "1N5819"
 			(at 122.555 96.393 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10499,7 +10499,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0011437026/DIOD-S-A0011683586-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10520,7 +10520,7 @@
 				)
 			)
 		)
-		(property "MFN" "MCC"
+		(property "MFN" "Diodes Inc"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10531,7 +10531,7 @@
 				)
 			)
 		)
-		(property "MFP" "MBRX120LF-TP"
+		(property "MFP" "1N5819HW-7-F"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10553,7 +10553,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_LINK" "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/MBRX120LF-TP?qs=SdqRYZZ9IxC6ZMQgVhMv%2FA%3D%3D"
+		(property "SUPPLIER_PN" "621-1N5819HW-F"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10564,7 +10564,40 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" "833-MBRX120LF-TP"
+		(property "ALT_SUPPLIER" ""
+			(at 121.92 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 121.92 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
+			(at 121.92 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER_LINK" ""
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11489,7 +11522,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/76/2/GRM188R61E475KE11_01A.pdf"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11510,7 +11543,7 @@
 				)
 			)
 		)
-		(property "MFN" "Kyocera AVX"
+		(property "MFN" "Murata"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11521,7 +11554,7 @@
 				)
 			)
 		)
-		(property "MFP" "F981C475MMA"
+		(property "MFP" "GRM188R61E475KE11D"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11543,7 +11576,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_LINK" "https://www.mouser.co.uk/ProductDetail/Kyocera-AVX/F981C475MMA?qs=a5AWWN0nKwZ6rGqyDWG78w%3D%3D"
+		(property "SUPPLIER_LINK" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R61E475KE11D?qs=eeBpzGFlv%252B9M0HqzMo%2FgYw%3D%3D"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11554,7 +11587,40 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" "647-F981C475MMA"
+		(property "SUPPLIER_PN" "81-GRM188R61E475KE1D"
+			(at 172.72 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 172.72 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 172.72 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11624,7 +11690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/76/2/GRM188R61E475KE11_01A.pdf"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11645,7 +11711,7 @@
 				)
 			)
 		)
-		(property "MFN" "Kyocera AVX"
+		(property "MFN" "Murata"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11656,7 +11722,7 @@
 				)
 			)
 		)
-		(property "MFP" "F981C475MMA"
+		(property "MFP" "GRM188R61E475KE11D"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11678,7 +11744,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_LINK" "https://www.mouser.co.uk/ProductDetail/Kyocera-AVX/F981C475MMA?qs=a5AWWN0nKwZ6rGqyDWG78w%3D%3D"
+		(property "SUPPLIER_LINK" "https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R61E475KE11D?qs=eeBpzGFlv%252B9M0HqzMo%2FgYw%3D%3D"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11689,7 +11755,40 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" "647-F981C475MMA"
+		(property "SUPPLIER_PN" "81-GRM188R61E475KE1D"
+			(at 191.77 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" ""
+			(at 191.77 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" ""
+			(at 191.77 93.853 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -17749,7 +17848,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER" "Farnell"
+		(property "SUPPLIER" "Mouser"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -17760,7 +17859,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" "4715649"
+		(property "SUPPLIER_PN" "640-SWT0110020016SSA"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
