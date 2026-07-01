@@ -33,3 +33,5 @@ README.html
 **/sub-modules/*/*/fp-info-cache
 **/*-backups/*.zip
 *.lck
+**/.history/
+**/*_pcb.zip
