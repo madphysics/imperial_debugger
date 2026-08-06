@@ -3761,7 +3761,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3772,7 +3772,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "36-5006-ND"
 			(at 38.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3928,7 +3928,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3939,7 +3939,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "36-5006-ND"
 			(at 58.42 114.3 0)
 			(hide yes)
 			(show_name no)

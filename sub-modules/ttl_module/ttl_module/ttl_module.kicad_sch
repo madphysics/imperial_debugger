@@ -4086,7 +4086,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 55.88 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4097,7 +4097,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "952-3276-ND"
 			(at 55.88 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4272,7 +4272,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 135.89 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -4283,7 +4283,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-16844-1-ND"
 			(at 135.89 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -4529,6 +4529,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 130.81 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
+			(at 130.81 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36e110ba-19dd-4e04-873c-63ac832c709b")
 		)
@@ -4642,6 +4664,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 140.97 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 140.97 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
 			(at 140.97 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -4843,6 +4887,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 140.97 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 140.97 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
 			(at 140.97 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -5057,7 +5123,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 135.89 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5068,7 +5134,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-16845-1-ND"
 			(at 135.89 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5242,6 +5308,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 130.81 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
+			(at 130.81 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "951391fe-2fd5-4c6f-8b3a-50bec420cdf7")
 		)
@@ -5355,6 +5443,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 130.81 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 130.81 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
 			(at 130.81 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -5644,6 +5754,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 140.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CL05B104KO5NNNC"
+			(at 140.97 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b3288a9-0200-4afe-a144-c162fd00de4d")
 		)
@@ -5838,6 +5970,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
+			(at 113.03 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 113.03 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CRCW06034K70FKEA"
 			(at 113.03 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -6130,6 +6284,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 113.03 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CRCW06034K70FKEA"
+			(at 113.03 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "83f9fd21-e766-4a33-8966-244b77e7937c")
 		)
@@ -6256,7 +6432,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 233.68 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6267,7 +6443,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "952-3300-ND"
 			(at 233.68 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6631,7 +6807,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 135.89 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6653,7 +6829,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-16845-1-ND"
 			(at 135.89 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6861,7 +7037,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6872,7 +7048,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "732-613012243121-ND"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)

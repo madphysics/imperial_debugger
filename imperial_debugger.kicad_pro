@@ -679,9 +679,15 @@
         },
         {
           "group_by": false,
+          "label": "ALT_SUPPLIER",
+          "name": "ALT_SUPPLIER",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "ALT_SUPPLIER_PN",
           "name": "ALT_SUPPLIER_PN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -706,12 +712,6 @@
           "label": "SUPPLIER_PN",
           "name": "SUPPLIER_PN",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "ALT_SUPPLIER",
-          "name": "ALT_SUPPLIER",
-          "show": false
         },
         {
           "group_by": false,

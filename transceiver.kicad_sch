@@ -8223,7 +8223,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 37.592 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8234,7 +8234,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-51795-1-ND"
 			(at 37.592 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8399,7 +8399,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 69.088 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8410,7 +8410,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-50410-1-ND"
 			(at 69.088 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8944,7 +8944,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 40.386 141.986 0)
 			(hide yes)
 			(show_name no)
@@ -8955,7 +8955,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "S9012E-04-ND"
 			(at 40.386 141.986 0)
 			(hide yes)
 			(show_name no)
@@ -9119,6 +9119,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 98.298 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 98.298 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d9c085ea-707b-4aa9-9f52-5b73ebd6d4a8")
 		)
@@ -9245,6 +9267,28 @@
 		)
 		(property "SUPPLIER_PN" "710-155060GS75300"
 			(at 98.298 232.156 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 98.298 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 98.298 232.156 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9519,6 +9563,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 89.408 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 89.408 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3be53a9-9f9e-461e-b58f-ceec5a09becb")
 		)
@@ -9654,6 +9720,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 89.408 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 89.408 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c561926-0dcb-4fa4-bbe9-068be92dcab9")
 		)
@@ -9757,6 +9845,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 79.248 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 79.248 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 79.248 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9902,6 +10012,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 79.248 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 79.248 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47916a68-3c61-41df-8f5c-7d80b27c6abb")
 		)
@@ -10005,6 +10137,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 70.358 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 70.358 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 70.358 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10150,6 +10304,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 70.358 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 70.358 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1fb607de-8579-4a85-b60f-4dfe0a739d6d")
 		)
@@ -10253,6 +10429,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 53.848 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 53.848 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 53.848 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10398,6 +10596,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 53.848 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 53.848 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "edc9d54c-08db-4d26-8e5a-2366bb994d9d")
 		)
@@ -10501,6 +10721,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 44.958 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 44.958 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 44.958 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10646,6 +10888,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 44.958 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 44.958 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "76aa9247-2762-44d4-89f5-3efcc1f33fd8")
 		)
@@ -10749,6 +11013,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 34.798 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 34.798 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 34.798 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10894,6 +11180,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 34.798 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 34.798 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3bd9f3c4-9c93-464a-a5de-be971ffad974")
 		)
@@ -10997,6 +11305,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "754-RG1608P-331-BT5"
+			(at 25.908 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 25.908 225.044 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 25.908 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -11133,6 +11463,28 @@
 		)
 		(property "SUPPLIER_PN" "710-155060GS75300"
 			(at 25.908 232.156 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 25.908 232.156 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 25.908 232.156 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11342,7 +11694,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 63.5 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11353,7 +11705,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
 			(at 63.5 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11500,6 +11852,28 @@
 			)
 		)
 		(property "MFP" "4.7k 1%"
+			(at 71.12 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 71.12 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
 			(at 71.12 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11788,7 +12162,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -11799,7 +12173,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -12024,6 +12398,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 52.578 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 52.578 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7b10fb0-5207-4887-a353-d11590cf6f8a")
 		)
@@ -12228,7 +12624,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12239,7 +12635,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "FDV301NCT-ND"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12388,6 +12784,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 96.52 174.498 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 96.52 174.498 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fdabbe9e-4af4-4b56-8f57-eb4806d64aec")
 		)
@@ -12514,6 +12932,28 @@
 		)
 		(property "SUPPLIER_PN" "710-155060GS75300"
 			(at 35.56 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 35.56 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 35.56 189.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12717,6 +13157,28 @@
 			)
 		)
 		(property "MFP" "ESDS304DBVR"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 284.48 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 284.48 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -13018,6 +13480,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 346.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8e3ae6b8-00c4-4615-8bb3-c524a8534645")
 		)
@@ -13152,7 +13636,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 284.48 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13163,7 +13647,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
 			(at 284.48 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13318,6 +13802,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 63.754 174.498 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 63.754 174.498 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3d02023-dd70-4c1f-b09a-a05a7947e65f")
 		)
@@ -13444,6 +13950,28 @@
 		)
 		(property "SUPPLIER_PN" "710-155060GS75300"
 			(at 63.754 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 63.754 182.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 63.754 182.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13657,6 +14185,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 346.71 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ff845c96-70f4-4dca-b30b-04dd63c91151")
 		)
@@ -13801,7 +14351,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 25.4 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -13812,7 +14362,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
 			(at 25.4 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -13958,7 +14508,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13969,7 +14519,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14223,6 +14773,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 85.344 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 85.344 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abbda2a7-a2fa-48dc-92e8-ca1add58003a")
 		)
@@ -14414,6 +14986,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 35.56 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+			(at 35.56 182.118 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4bd5d693-0236-4186-a922-14b9124061f4")
 		)
@@ -14529,6 +15123,28 @@
 			)
 		)
 		(property "MFP" "ESDS304DBVR"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 320.04 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 320.04 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -14749,7 +15365,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14760,7 +15376,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "FDV301NCT-ND"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -14921,6 +15537,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 284.48 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "514ed1ba-ef84-4f12-8b75-e9b95f24cdce")
 		)
@@ -15054,7 +15692,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -15065,7 +15703,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -15252,7 +15890,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15263,7 +15901,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15450,7 +16088,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15461,7 +16099,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15648,6 +16286,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 320.04 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "467943ff-e072-49b5-8480-e545a6f45ce3")
 		)
@@ -15772,6 +16432,28 @@
 			)
 		)
 		(property "MFP" "ESDS304DBVR"
+			(at 284.48 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+			(at 284.48 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 284.48 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -15995,6 +16677,28 @@
 		)
 		(property "SUPPLIER_PN" "710-155060GS75300"
 			(at 96.52 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+			(at 96.52 182.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 96.52 182.88 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

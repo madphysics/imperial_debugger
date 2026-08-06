@@ -4328,7 +4328,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4339,7 +4339,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "FTS-103-04-F-D-ND"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -4500,6 +4500,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "968-ISL83076EIBZA"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 160.02 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "ISL83076EIBZA-ND"
 			(at 160.02 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4827,6 +4849,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
+			(at 90.17 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d0b18d8c-fd23-41b8-8618-31dda07ee6d6")
 		)
@@ -5031,6 +5075,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb677f4f-ba56-48a2-90d2-39a30c54a80e")
 		)
@@ -5154,7 +5220,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5165,7 +5231,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "952-3598-ND"
 			(at 194.31 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5312,6 +5378,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "710-62200421121"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 87.63 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-5372-ND"
 			(at 87.63 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -5532,7 +5620,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 251.46 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5543,7 +5631,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "277-5827-ND"
 			(at 251.46 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -5708,6 +5796,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "296-18657-1-ND"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "2a9e9c72-5603-43b2-b20a-f124cec650a9")
 		)
@@ -5834,6 +5944,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "581-06035C104JAT2A62"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 146.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "1276-1001-1-ND"
 			(at 146.05 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6046,6 +6178,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-5372-ND"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8f772bff-7179-4e34-ac75-f92fe90e5f47")
 		)
@@ -6167,6 +6321,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "279-CRGP0603F120R"
+			(at 190.5 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 190.5 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "CMP0603QFX-1200ELF"
 			(at 190.5 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -6379,7 +6555,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" ""
+		(property "ALT_SUPPLIER" "DigiKey"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6390,7 +6566,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" ""
+		(property "ALT_SUPPLIER_PN" "732-613012243121-ND"
 			(at 55.88 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6576,6 +6752,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "732-5372-ND"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "82cb9919-be9b-4e5c-8cc2-d0af8a00e40f")
 		)
@@ -6698,6 +6896,28 @@
 			)
 		)
 		(property "SUPPLIER_PN" "594-MCT06030C4701FP5"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER" "DigiKey"
+			(at 95.25 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
 			(at 95.25 118.11 0)
 			(hide yes)
 			(show_name no)
