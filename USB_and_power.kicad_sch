@@ -15293,7 +15293,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "27pf"
 			(at 215.9 226.695 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15450,7 +15450,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "27pf"
 			(at 228.6 226.695 0)
 			(show_name no)
 			(do_not_autoplace no)
