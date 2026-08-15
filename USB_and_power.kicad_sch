@@ -9508,7 +9508,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C103J3RACAUTOCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRT1885C1E103FA02D"
 			(at 64.77 105.283 0)
 			(hide yes)
 			(show_name no)
@@ -9519,7 +9519,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 64.77 105.283 0)
 			(hide yes)
 			(show_name no)
@@ -9676,7 +9676,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "445-175372-1-ND"
+		(property "ALT_SUPPLIER_PN" "4065960"
 			(at 58.42 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -9687,7 +9687,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 58.42 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -9909,7 +9909,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 33.02 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -9920,7 +9920,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "CAS06F0000CT"
+		(property "ALT_SUPPLIER_PN" "MCT06030Z0000ZP500"
 			(at 33.02 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -10066,7 +10066,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 96.52 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -10077,7 +10077,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RMCF0603FT10R0"
+		(property "ALT_SUPPLIER_PN" "HP03-10R1%"
 			(at 96.52 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -10223,7 +10223,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 96.52 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -10234,7 +10234,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RMCF0603FT10R0"
+		(property "ALT_SUPPLIER_PN" "HP03-10R1%"
 			(at 96.52 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -10380,7 +10380,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "LM2594M-3.3/NOPB-ND"
+		(property "ALT_SUPPLIER_PN" "LM2594M-3.3/NOPB"
 			(at 104.14 88.773 0)
 			(hide yes)
 			(show_name no)
@@ -10391,7 +10391,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 104.14 88.773 0)
 			(hide yes)
 			(show_name no)
@@ -10696,7 +10696,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10707,7 +10707,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "1N5819HW-FDICT-ND"
+		(property "ALT_SUPPLIER_PN" "SS1040-R1"
 			(at 121.92 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -10873,7 +10873,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 130.81 88.773 0)
 			(hide yes)
 			(show_name no)
@@ -10884,7 +10884,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "SRN6045-101MCT-ND"
+		(property "ALT_SUPPLIER_PN" "DJNR6045-101-S"
 			(at 130.81 88.773 0)
 			(hide yes)
 			(show_name no)
@@ -11052,7 +11052,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 83.82 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11063,7 +11063,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "478-3069-1-ND"
+		(property "ALT_SUPPLIER_PN" "TAJB686K010R"
 			(at 83.82 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11231,7 +11231,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "10-EEE-FN1A151LCT-ND"
+		(property "ALT_SUPPLIER_PN" "EEEFN1C151UP"
 			(at 139.065 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11242,7 +11242,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 139.065 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11473,7 +11473,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "445-175372-1-ND"
+		(property "ALT_SUPPLIER_PN" "4065960"
 			(at 162.56 81.153 90)
 			(hide yes)
 			(show_name no)
@@ -11484,7 +11484,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 162.56 81.153 90)
 			(hide yes)
 			(show_name no)
@@ -11639,7 +11639,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "445-175372-1-ND"
+		(property "ALT_SUPPLIER_PN" "4065960"
 			(at 162.56 87.503 90)
 			(hide yes)
 			(show_name no)
@@ -11650,7 +11650,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 162.56 87.503 90)
 			(hide yes)
 			(show_name no)
@@ -11796,7 +11796,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11807,7 +11807,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "490-7203-1-ND"
+		(property "ALT_SUPPLIER_PN" "LMK107BJ475KA-T"
 			(at 172.72 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11964,7 +11964,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -11975,7 +11975,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "490-7203-1-ND"
+		(property "ALT_SUPPLIER_PN" "LMK107BJ475KA-T"
 			(at 191.77 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -12132,7 +12132,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 182.88 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -12143,7 +12143,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 182.88 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -12289,7 +12289,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 201.93 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -12300,7 +12300,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 201.93 93.853 0)
 			(hide yes)
 			(show_name no)
@@ -12674,6 +12674,28 @@
 				)
 			)
 		)
+		(property "ALT_SUPPLIER" "TME"
+			(at 280.67 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_PN" "FT4232HL"
+			(at 280.67 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5bdb6c5a-655e-4bc5-8344-1c32fbd86e44")
 		)
@@ -12995,7 +13017,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "478-4949-1-ND"
+		(property "ALT_SUPPLIER_PN" "CL10A335KP8NNNC"
 			(at 222.25 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13006,7 +13028,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 222.25 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -13152,7 +13174,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 232.41 141.605 0)
 			(hide yes)
 			(show_name no)
@@ -13163,7 +13185,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 232.41 141.605 0)
 			(hide yes)
 			(show_name no)
@@ -13755,7 +13777,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 240.03 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -13766,7 +13788,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0402FR-0712KL"
+		(property "ALT_SUPPLIER_PN" "ERA3AEB123V"
 			(at 240.03 163.83 90)
 			(hide yes)
 			(show_name no)
@@ -13912,7 +13934,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 292.1 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -13923,7 +13945,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 292.1 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14069,7 +14091,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 298.45 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14080,7 +14102,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 298.45 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14226,7 +14248,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 304.8 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14237,7 +14259,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 304.8 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14383,7 +14405,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 311.15 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14394,7 +14416,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 311.15 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14692,7 +14714,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 264.16 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14703,7 +14725,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 264.16 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14849,7 +14871,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14860,7 +14882,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15006,7 +15028,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 276.86 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15017,7 +15039,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 276.86 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15391,7 +15413,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "CC0603JRNPO9270"
 			(at 222.25 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -15402,7 +15424,18 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
+			(at 222.25 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ALT_SUPPLIER_LINK" ""
 			(at 222.25 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -15548,7 +15581,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "CC0603JRNPO9270"
 			(at 234.95 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -15559,7 +15592,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 234.95 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -15704,7 +15737,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 228.6 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -15715,7 +15748,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "541-XT9MNLANA14M31818-ND"
+		(property "ALT_SUPPLIER_PN" "2467681"
 			(at 228.6 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -15872,7 +15905,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 267.97 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -15883,7 +15916,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "CAS06F0000CT"
+		(property "ALT_SUPPLIER_PN" "MCT06030Z0000ZP500"
 			(at 267.97 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -15930,7 +15963,7 @@
 				)
 			)
 		)
-		(property "Value" "93LC54B"
+		(property "Value" "93LC54A"
 			(at 194.31 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16005,7 +16038,7 @@
 				)
 			)
 		)
-		(property "SUPPLIER_PN" "579-93LC56B-I/MS"
+		(property "SUPPLIER_PN" "579-93LC56A-I/MS"
 			(at 201.93 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16016,7 +16049,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 201.93 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16027,7 +16060,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "93LC56B-I/MS-ND"
+		(property "ALT_SUPPLIER_PN" "93LC56A-I/SN"
 			(at 201.93 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16289,7 +16322,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 216.535 204.47 90)
 			(hide yes)
 			(show_name no)
@@ -16300,7 +16333,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "YAG3590CT-ND"
+		(property "ALT_SUPPLIER_PN" "ERA3AEB202V"
 			(at 216.535 204.47 90)
 			(hide yes)
 			(show_name no)
@@ -16446,7 +16479,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 213.36 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -16457,7 +16490,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-0710KL"
+		(property "ALT_SUPPLIER_PN" "HP03-10K1%"
 			(at 213.36 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -16679,7 +16712,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 198.12 154.94 90)
 			(hide yes)
 			(show_name no)
@@ -16690,7 +16723,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-0710KL"
+		(property "ALT_SUPPLIER_PN" "HP03-10K1%"
 			(at 198.12 154.94 90)
 			(hide yes)
 			(show_name no)
@@ -16890,7 +16923,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 387.35 213.741 0)
 			(hide yes)
 			(show_name no)
@@ -16901,7 +16934,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 387.35 213.741 0)
 			(hide yes)
 			(show_name no)
@@ -17047,7 +17080,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-12014-1-ND"
+		(property "ALT_SUPPLIER_PN" "RF-OUB191TS-CE"
 			(at 387.35 220.853 90)
 			(hide yes)
 			(show_name no)
@@ -17058,7 +17091,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 387.35 220.853 90)
 			(hide yes)
 			(show_name no)
@@ -17258,7 +17291,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 370.84 211.201 0)
 			(hide yes)
 			(show_name no)
@@ -17269,7 +17302,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 370.84 211.201 0)
 			(hide yes)
 			(show_name no)
@@ -17415,7 +17448,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 370.84 218.313 90)
 			(hide yes)
 			(show_name no)
@@ -17426,7 +17459,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 370.84 218.313 90)
 			(hide yes)
 			(show_name no)
@@ -17955,7 +17988,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "5923-0ZCJ0075AF2ECT-ND"
+		(property "ALT_SUPPLIER_PN" "0ZCJ0075AF2E"
 			(at 58.42 108.204 0)
 			(hide yes)
 			(show_name no)
@@ -17966,7 +17999,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 58.42 108.204 0)
 			(hide yes)
 			(show_name no)
@@ -18112,7 +18145,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 205.74 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -18123,7 +18156,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 205.74 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -18345,7 +18378,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 71.12 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -18356,7 +18389,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-075K1L"
+		(property "ALT_SUPPLIER_PN" "AR0603-5K1-0.1%"
 			(at 71.12 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -18493,7 +18526,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "ESD5Z2.5T1GOSCT-ND"
+		(property "ALT_SUPPLIER_PN" "ESD7351XV2T1G"
 			(at 86.36 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -18504,7 +18537,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 86.36 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -18640,7 +18673,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -18651,7 +18684,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "2073-SWT0110-020016SSACT-ND"
+		(property "ALT_SUPPLIER_PN" "SWT0110-020016SSA"
 			(at 198.12 164.084 0)
 			(hide yes)
 			(show_name no)
@@ -18895,7 +18928,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "399-C0603C104J4RACTUCT-ND"
+		(property "ALT_SUPPLIER_PN" "GRM188R71C104KA01D"
 			(at 236.22 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -18906,7 +18939,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 236.22 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -19117,7 +19150,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -19128,7 +19161,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "2223-UJ20-C-H-G-SMT-2A-P16-TRCT-ND"
+		(property "ALT_SUPPLIER_PN" "4839404"
 			(at 40.64 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -19335,7 +19368,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 63.5 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -19346,7 +19379,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-075K1L"
+		(property "ALT_SUPPLIER_PN" "AR0603-5K1-0.1%"
 			(at 63.5 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -19482,7 +19515,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "ESD5Z2.5T1GOSCT-ND"
+		(property "ALT_SUPPLIER_PN" "ESD7351XV2T1G"
 			(at 81.28 162.56 90)
 			(hide yes)
 			(show_name no)
@@ -19493,7 +19526,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 81.28 162.56 90)
 			(hide yes)
 			(show_name no)

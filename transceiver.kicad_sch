@@ -8223,7 +8223,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 37.592 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8234,7 +8234,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-51795-1-ND"
+		(property "ALT_SUPPLIER_PN" "AP2112K-2.5TRG1"
 			(at 37.592 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8399,7 +8399,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 69.088 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8410,7 +8410,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-50410-1-ND"
+		(property "ALT_SUPPLIER_PN" "AP2112K-1.8TRG1"
 			(at 69.088 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8944,7 +8944,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 40.386 141.986 0)
 			(hide yes)
 			(show_name no)
@@ -8955,7 +8955,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "S9012E-04-ND"
+		(property "ALT_SUPPLIER_PN" "ZL322-2X4P"
 			(at 40.386 141.986 0)
 			(hide yes)
 			(show_name no)
@@ -9119,7 +9119,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 98.298 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9130,7 +9130,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 98.298 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9276,7 +9276,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 98.298 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -9287,7 +9287,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 98.298 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -9563,7 +9563,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 89.408 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9574,7 +9574,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 89.408 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9720,7 +9720,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 89.408 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -9731,7 +9731,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 89.408 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -9855,7 +9855,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 79.248 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -9866,7 +9866,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 79.248 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10012,7 +10012,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 79.248 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10023,7 +10023,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 79.248 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10147,7 +10147,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 70.358 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10158,7 +10158,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 70.358 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10304,7 +10304,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 70.358 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10315,7 +10315,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 70.358 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10439,7 +10439,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 53.848 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10450,7 +10450,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 53.848 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10596,7 +10596,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 53.848 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 53.848 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10731,7 +10731,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 44.958 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10742,7 +10742,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 44.958 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -10888,7 +10888,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 44.958 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -10899,7 +10899,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 44.958 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -11023,7 +11023,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 34.798 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -11034,7 +11034,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 34.798 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -11180,7 +11180,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 34.798 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -11191,7 +11191,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 34.798 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -11315,7 +11315,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 25.908 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -11326,7 +11326,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 25.908 225.044 0)
 			(hide yes)
 			(show_name no)
@@ -11472,7 +11472,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KP-1608SGD"
 			(at 25.908 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -11483,7 +11483,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 25.908 232.156 90)
 			(hide yes)
 			(show_name no)
@@ -11694,7 +11694,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 63.5 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11705,7 +11705,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
+		(property "ALT_SUPPLIER_PN" "HP03-4K71%"
 			(at 63.5 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11862,7 +11862,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 71.12 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -11873,7 +11873,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0402FR-074K7L"
+		(property "ALT_SUPPLIER_PN" "HP03-4K71%"
 			(at 71.12 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -12162,7 +12162,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -12173,7 +12173,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 25.4 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -12398,7 +12398,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 52.578 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -12409,7 +12409,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 52.578 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -12624,7 +12624,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12635,7 +12635,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "FDV301NCT-ND"
+		(property "ALT_SUPPLIER_PN" "2N7002-TP"
 			(at 93.98 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -12784,7 +12784,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 96.52 174.498 0)
 			(hide yes)
 			(show_name no)
@@ -12795,7 +12795,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 96.52 174.498 0)
 			(hide yes)
 			(show_name no)
@@ -12941,7 +12941,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KPH-1608YD"
 			(at 35.56 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -12952,7 +12952,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 35.56 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -13167,7 +13167,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 284.48 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -13178,7 +13178,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 284.48 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -13480,7 +13480,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 346.71 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -13491,7 +13491,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 346.71 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -13636,7 +13636,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 284.48 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13647,7 +13647,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 284.48 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13802,7 +13802,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 63.754 174.498 0)
 			(hide yes)
 			(show_name no)
@@ -13813,7 +13813,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 63.754 174.498 0)
 			(hide yes)
 			(show_name no)
@@ -13959,7 +13959,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KPH-1608YD"
 			(at 63.754 182.88 90)
 			(hide yes)
 			(show_name no)
@@ -13970,7 +13970,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 63.754 182.88 90)
 			(hide yes)
 			(show_name no)
@@ -14185,7 +14185,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 346.71 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -14196,7 +14196,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 346.71 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -14351,7 +14351,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 25.4 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -14362,7 +14362,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KPH-1608YD"
 			(at 25.4 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -14508,7 +14508,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14519,7 +14519,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
+		(property "ALT_SUPPLIER_PN" "3497357"
 			(at 193.548 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -14773,7 +14773,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 85.344 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -14784,7 +14784,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 85.344 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -14986,7 +14986,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 35.56 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -14997,7 +14997,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "RC0603FR-07330RL"
+		(property "ALT_SUPPLIER_PN" "ARG0603-330R-0.5%"
 			(at 35.56 182.118 0)
 			(hide yes)
 			(show_name no)
@@ -15133,7 +15133,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 320.04 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -15144,7 +15144,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 320.04 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -15365,7 +15365,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -15376,7 +15376,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "FDV301NCT-ND"
+		(property "ALT_SUPPLIER_PN" "2N7002-TP"
 			(at 61.214 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -15537,7 +15537,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 284.48 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -15548,7 +15548,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 284.48 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -15692,7 +15692,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -15703,7 +15703,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
+		(property "ALT_SUPPLIER_PN" "3497357"
 			(at 193.548 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -15890,7 +15890,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15901,7 +15901,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
+		(property "ALT_SUPPLIER_PN" "3497357"
 			(at 193.548 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16088,7 +16088,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "Farnell"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16099,7 +16099,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "10129382-912003BLF-ND"
+		(property "ALT_SUPPLIER_PN" "3497357"
 			(at 193.548 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16286,7 +16286,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 320.04 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -16297,7 +16297,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 320.04 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -16442,7 +16442,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "296-ESDS304DBVRCT-ND"
+		(property "ALT_SUPPLIER_PN" "SP0504BAHTG-LF"
 			(at 284.48 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -16453,7 +16453,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 284.48 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -16686,7 +16686,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER_PN" "732-155060GS75300CT-ND"
+		(property "ALT_SUPPLIER_PN" "KPH-1608YD"
 			(at 96.52 182.88 90)
 			(hide yes)
 			(show_name no)
@@ -16697,7 +16697,7 @@
 				)
 			)
 		)
-		(property "ALT_SUPPLIER" "DigiKey"
+		(property "ALT_SUPPLIER" "TME"
 			(at 96.52 182.88 90)
 			(hide yes)
 			(show_name no)
